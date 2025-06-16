@@ -12,4 +12,4 @@
 
 ## 3. Entrenamiento
 - Aplicamos un TF-IDF básico para mejorar el modelo
-- Usamos cosine_similarity3
+- Usamos cosine_similarity en la vectorización
