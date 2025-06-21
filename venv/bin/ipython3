@@ -1,4 +1,4 @@
-#!/home/diegomucha/Me/programming/projects/chambeaya-ai-core/venv/bin/python
+#!/home/diegomucha/me/programming/projects/chambeaya-ai-core/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/diegomucha/Me/programming/projects/chambeaya-ai-core/venv
+set -gx VIRTUAL_ENV /home/diegomucha/me/programming/projects/chambeaya-ai-core/venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
