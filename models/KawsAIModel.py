@@ -16,4 +16,4 @@ class KawsAIModel:
     # Función para obtener los mejores matches, se retornará los índices.
     def get_positions(self, X_estudiante_nuevo):
         distances, indexes = self.knn.kneighbors(X_estudiante_nuevo)
-        return distances[0], indexes[0]
+        return indexes[0]
