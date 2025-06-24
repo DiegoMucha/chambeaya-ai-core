@@ -1,0 +1,911 @@
+id_puesto,titulo_puesto,descripcion_puesto,area_del_puesto,modalidad_de_trabajo,horas_semanales,fecha_inicio,duracion_del_puesto,sueldo_aproximado
+PSTFIS001,Asistente de laboratorio físico,"Apoyo en el montaje de experimentos, registro de datos y análisis básico.",Investigación y Desarrollo,Presencial,20,2025-08-05,16,1100
+PSTFIS002,Auxiliar en análisis de datos experimentales,"Procesamiento de datos físicos con Python y herramientas estadísticas.",Ciencia de Datos,Remoto,15,2025-09-01,12,950
+PSTFIS003,Investigador Junior en Física Aplicada,"Colaboración en proyectos sobre materiales y óptica.",Investigación Científica,Híbrido,25,2025-08-20,24,1500
+PSTFIS004,Monitor de prácticas de Física,"Apoyo a docentes durante prácticas de laboratorio universitarias.",Educación y Formación,Presencial,10,2025-09-10,16,600
+PSTFIS005,Asistente en simulación computacional,"Creación y análisis de modelos físicos usando MATLAB y Python.",Tecnología e Ingeniería,Remoto,20,2025-08-01,20,1300
+PSTFIS006,Apoyo en física médica,"Colaboración en la calibración de equipos y estudios dosimétricos.",Salud y Medicina,Presencial,25,2025-09-15,12,1450
+PSTFIS007,Becario en física de partículas,"Apoyo en revisión bibliográfica, análisis teórico y simulaciones básicas.",Física Teórica,Híbrido,20,2025-08-12,24,1200
+PSTFIS008,Divulgador científico,"Redacción de artículos y elaboración de material audiovisual sobre conceptos físicos.",Comunicación Científica,Remoto,15,2025-07-25,8,800
+PSTFIS009,Modelador climático junior,"Asistencia en modelos físicos para predicción del clima.",Medio Ambiente,Remoto,20,2025-09-05,18,1350
+PSTFIS010,Auxiliar en proyectos de energías renovables,"Evaluación de eficiencia de sistemas solares y eólicos.",Energía y Recursos Naturales,Presencial,30,2025-08-10,20,1700
+PSTQUI001,Asistente de laboratorio químico,"Preparación de reactivos, manejo de instrumentos y control de calidad en experimentos.",Investigación y Desarrollo,Presencial,20,2025-08-10,20,1150
+PSTQUI002,Analista de calidad junior,"Realización de pruebas de control de calidad en productos farmacéuticos.",Industria Farmacéutica,Presencial,30,2025-07-15,16,1450
+PSTQUI003,Técnico en cromatografía,"Asistencia en análisis de muestras usando HPLC y GC.",Análisis Clínico,Híbrido,25,2025-08-01,12,1350
+PSTQUI004,Auxiliar de síntesis orgánica,"Apoyo en procesos de síntesis y purificación de compuestos orgánicos.",Química Orgánica,Presencial,20,2025-08-20,16,1200
+PSTQUI005,Investigador junior en química ambiental,"Recolección y análisis de muestras de agua y suelo para estudios de contaminación.",Medio Ambiente,Remoto,15,2025-09-05,24,1250
+PSTQUI006,Formulador de productos de limpieza,"Colaboración en el desarrollo de nuevas fórmulas para detergentes y desinfectantes.",Industria Química,Híbrido,30,2025-08-12,20,1550
+PSTQUI007,Divulgador científico en química,"Creación de contenido sobre experimentos y conceptos químicos para redes y talleres.",Comunicación Científica,Remoto,15,2025-07-22,8,800
+PSTQUI008,Analista en laboratorio de alimentos,"Determinación de composición química y aditivos en alimentos procesados.",Industrias Alimentarias,Presencial,25,2025-08-15,18,1400
+PSTQUI009,Asistente en control de calidad de cosméticos,"Ejecución de pruebas químicas y físicas en productos de belleza y cuidado personal.",Cosmetología Química,Presencial,20,2025-09-01,12,1100
+PSTQUI010,Químico forense junior,"Análisis de evidencias en laboratorio con técnicas espectroscópicas y químicas.",Criminalística,Presencial,30,2025-08-18,16,1600
+PSTMAT001,Asistente de modelado matemático,"Apoyo en construcción y simulación de modelos aplicados en ingeniería y economía.",Investigación y Desarrollo,Híbrido,20,2025-08-10,20,1300
+PSTMAT002,Tutor de matemáticas,"Dictado de clases personalizadas a estudiantes de secundaria y primeros ciclos universitarios.",Educación y Formación,Remoto,15,2025-07-22,12,800
+PSTMAT003,Analista de optimización logística,"Análisis de rutas y tiempos para mejorar la eficiencia en cadenas de suministro.",Logística y Transporte,Presencial,25,2025-08-05,16,1400
+PSTMAT004,Investigador junior en teoría de números,"Participación en proyectos de investigación pura con herramientas algebraicas.",Matemáticas Puras,Remoto,20,2025-08-15,24,1250
+PSTMAT005,Asistente en análisis actuarial,"Evaluación de riesgos y cálculo de seguros con bases estadísticas.",Finanzas y Seguros,Presencial,30,2025-08-01,20,1600
+PSTMAT006,Becario en matemática aplicada,"Colaboración en desarrollo de algoritmos matemáticos para problemas reales.",Ciencia de Datos,Híbrido,25,2025-09-01,24,1500
+PSTMAT007,Desarrollador de contenido educativo en matemáticas,"Creación de ejercicios y videos interactivos para plataformas educativas.",Tecnología Educativa,Remoto,15,2025-07-28,10,900
+PSTMAT008,Analista de series temporales,"Evaluación de datos cronológicos para predicciones financieras y científicas.",Ciencia de Datos,Remoto,20,2025-08-20,16,1350
+PSTMAT009,Consultor en métodos numéricos,"Apoyo en implementación de métodos computacionales para simulaciones.",Ingeniería y Simulación,Híbrido,20,2025-08-05,18,1450
+PSTMAT010,Apoyo en investigación de criptografía matemática,"Estudio de algoritmos criptográficos y teoría de números aplicada.",Ciberseguridad,Remoto,20,2025-08-12,20,1400
+PSTBIO001,Asistente de laboratorio de biología molecular,"Manejo de muestras, extracción de ADN y PCR.",Investigación y Desarrollo,Presencial,20,2025-08-01,16,1200
+PSTBIO002,Auxiliar en proyectos de biodiversidad,"Recojo de muestras en campo y análisis de especies.",Medio Ambiente,Híbrido,25,2025-08-10,20,1250
+PSTBIO003,Investigador en microbiología básica,"Apoyo en cultivo de bacterias y observación al microscopio.",Biotecnología,Presencial,20,2025-08-15,12,1300
+PSTBIO004,Divulgador científico en biología,"Redacción y difusión de contenido sobre biología celular y ecología.",Comunicación Científica,Remoto,15,2025-07-25,8,800
+PSTBIO005,Técnico asistente en genética,"Colaboración en estudios genéticos con herramientas de bioinformática.",Genética,Híbrido,25,2025-08-20,20,1400
+PSTBIO006,Apoyo en monitoreo de ecosistemas,"Participación en estudios de fauna y flora en reservas naturales.",Ecología y Conservación,Presencial,30,2025-09-01,24,1350
+PSTBIO007,Auxiliar en laboratorio clínico biológico,"Procesamiento de muestras humanas para análisis clínicos.",Salud y Medicina,Presencial,20,2025-08-18,16,1200
+PSTBIO008,Becario en biología marina,"Asistencia en recolección de muestras de agua y organismos marinos.",Biología Marina,Presencial,25,2025-08-12,18,1250
+PSTBIO009,Ilustrador biológico científico,"Elaboración de material gráfico sobre anatomía y estructuras celulares.",Diseño y Educación,Remoto,15,2025-08-22,10,850
+PSTBIO010,Asistente de investigación en neurobiología,"Apoyo en experimentos con cultivos neuronales y análisis de datos.",Neurociencia,Híbrido,20,2025-09-05,20,1350
+PSTEST001,Asistente de análisis estadístico,"Procesamiento de datos y generación de reportes con R y Python.",Ciencia de Datos,Remoto,20,2025-08-10,20,1300
+PSTEST002,Becario en bioestadística,"Colaboración en estudios médicos y análisis de ensayos clínicos.",Salud Pública,Híbrido,25,2025-08-01,24,1450
+PSTEST003,Analista junior de encuestas,"Procesamiento y visualización de resultados de encuestas nacionales.",Estudios Sociales,Remoto,15,2025-07-28,12,1150
+PSTEST004,Auxiliar en econometría aplicada,"Aplicación de modelos estadísticos a datos económicos.",Finanzas y Economía,Híbrido,20,2025-08-05,16,1350
+PSTEST005,Asistente en investigación de mercados,"Análisis de comportamiento de consumidores y preferencias.",Marketing y Negocios,Remoto,20,2025-08-20,18,1250
+PSTEST006,Modelador de riesgo junior,"Construcción de modelos probabilísticos para análisis de riesgo.",Seguros y Finanzas,Presencial,30,2025-09-01,24,1500
+PSTEST007,Encargado de visualización de datos,"Curación de dashboards interactivos con herramientas como Power BI.",Business Intelligence,Remoto,15,2025-07-30,10,1100
+PSTEST008,Estadístico en investigación agrícola,"Análisis de productividad, climas y cosechas en estudios agrarios.",Agroindustria,Presencial,25,2025-08-15,20,1400
+PSTEST009,Divulgador en estadística aplicada,"Creación de contenido educativo sobre análisis de datos reales.",Educación y Formación,Remoto,15,2025-08-22,8,850
+PSTEST010,Asistente en auditoría estadística,"Evaluación y muestreo en procesos de calidad organizacional.",Control de Calidad,Híbrido,20,2025-08-18,16,1200
+PSTISW001,Desarrollador backend junior,"Implementación de APIs REST usando Node.js y bases de datos SQL.",Desarrollo de Software,Remoto,30,2025-08-01,20,1600
+PSTISW002,Tester QA manual,"Elaboración y ejecución de casos de prueba en entornos web.",Calidad de Software,Híbrido,25,2025-08-15,16,1400
+PSTISW003,Asistente en DevOps,"Colaboración en la automatización de pipelines de CI/CD con Jenkins y Docker.",Infraestructura y DevOps,Remoto,20,2025-08-05,18,1500
+PSTISW004,Desarrollador frontend en prácticas,"Implementación de interfaces responsivas con React y Tailwind CSS.",Desarrollo Web,Remoto,20,2025-08-10,16,1300
+PSTISW005,Apoyo en documentación técnica,"Redacción y organización de documentación de sistemas y APIs.",Documentación Técnica,Híbrido,15,2025-07-30,12,950
+PSTISW006,Programador en pruebas automatizadas,"Desarrollo de scripts de testing con Selenium y PyTest.",Control de Calidad,Híbrido,20,2025-08-20,16,1350
+PSTISW007,Becario en arquitectura de software,"Soporte en diseño de estructuras modulares y patrones de arquitectura.",Diseño de Software,Presencial,25,2025-08-12,20,1450
+PSTISW008,Auxiliar en seguridad de aplicaciones,"Revisión de código para vulnerabilidades comunes y pruebas de penetración.",Ciberseguridad,Remoto,20,2025-08-25,18,1500
+PSTISW009,Desarrollador móvil junior,"Apoyo en desarrollo de apps Android con Kotlin y Jetpack Compose.",Desarrollo Mobile,Híbrido,30,2025-09-01,16,1600
+PSTISW010,Colaborador en accesibilidad web,"Evaluación de sitios web según estándares de accesibilidad (WCAG).",Diseño Inclusivo,Remoto,15,2025-08-28,10,1000
+PSTCSC001,Asistente en visión por computadora,"Colaboración en procesamiento de imágenes y detección de objetos.",Inteligencia Artificial,Remoto,20,2025-08-10,18,1500
+PSTCSC002,Investigador en teoría de algoritmos,"Análisis de complejidad y optimización de estructuras algorítmicas.",Investigación en Computación,Híbrido,25,2025-08-01,20,1450
+PSTCSC003,Desarrollador de videojuegos 2D,"Creación de mecánicas básicas en motores como Unity o Godot.",Desarrollo de Juegos,Remoto,30,2025-07-25,16,1400
+PSTCSC004,Becario en computación cuántica,"Estudio y simulación de circuitos cuánticos con Qiskit.",Computación Cuántica,Remoto,15,2025-08-15,12,1300
+PSTCSC005,Asistente de investigación en grafos,"Soporte en problemas de rutas, redes y análisis topológico.",Ciencia Computacional,Híbrido,20,2025-08-20,16,1350
+PSTCSC006,Programador en sistemas operativos,"Implementación de módulos en kernels de código abierto.",Sistemas Operativos,Presencial,25,2025-09-01,24,1500
+PSTCSC007,Apoyo en diseño de lenguajes de programación,"Participación en pruebas y mejoras de compiladores.",Teoría de Lenguajes,Remoto,20,2025-08-12,20,1450
+PSTCSC008,Desarrollador de asistentes virtuales,"Creación de bots con NLP y frameworks como Rasa o Dialogflow.",Inteligencia Artificial,Remoto,20,2025-08-22,16,1500
+PSTCSC009,Colaborador en computación gráfica,"Diseño de escenas y shaders con OpenGL y WebGL.",Computación Gráfica,Híbrido,25,2025-08-18,20,1450
+PSTCSC010,Investigador en redes neuronales profundas,"Entrenamiento y evaluación de modelos de deep learning.",Aprendizaje Automático,Remoto,20,2025-08-08,24,1600
+PSTINF001,Asistente en administración de servidores,"Soporte en mantenimiento y configuración de servidores Linux.",Redes y Sistemas,Presencial,25,2025-08-01,20,1350
+PSTINF002,Técnico en soporte TI,"Atención a usuarios, configuración de redes y resolución de fallos.",Tecnologías de la Información,Presencial,30,2025-08-10,16,1300
+PSTINF003,Auxiliar en análisis de redes,"Monitoreo de tráfico y detección de anomalías.",Ciberseguridad,Híbrido,20,2025-08-15,18,1400
+PSTINF004,Desarrollador de sistemas embebidos,"Programación de microcontroladores con C/C++.",Electrónica y Sistemas,Presencial,20,2025-08-20,20,1450
+PSTINF005,Practicante en soporte de infraestructura cloud,"Implementación de recursos en AWS y Azure.",Computación en la Nube,Remoto,20,2025-08-12,16,1500
+PSTINF006,Becario en automatización de procesos,"Creación de scripts para tareas repetitivas en entornos corporativos.",Automatización de Procesos,Remoto,15,2025-07-30,12,1250
+PSTINF007,Auditor informático junior,"Evaluación de sistemas y cumplimiento de políticas de TI.",Seguridad Informática,Híbrido,25,2025-08-05,20,1350
+PSTINF008,Desarrollador de scripts administrativos,"Automatización de tareas con PowerShell y Bash.",Administración de Sistemas,Remoto,15,2025-08-22,10,1200
+PSTINF009,Colaborador en monitoreo de redes,"Uso de herramientas como Wireshark y Nagios para análisis de red.",Infraestructura TI,Presencial,20,2025-09-01,16,1300
+PSTINF010,Apoyo en implementación de ERP,"Colaboración en el despliegue y personalización de sistemas ERP.",Sistemas Empresariales,Híbrido,25,2025-08-28,20,1400
+PSTIA001,Asistente en entrenamiento de modelos IA,"Apoyo en el procesamiento de datos y ajuste de hiperparámetros para modelos supervisados.",Machine Learning,Remoto,25,2025-08-01,18,1500
+PSTIA002,Curador de datasets para IA,"Recolección, limpieza y anotación de datos para entrenamiento de modelos.",Gestión de Datos,Remoto,20,2025-08-12,16,1350
+PSTIA003,Ingeniero de prompts junior,"Redacción, testeo y optimización de prompts para LLMs.",Procesamiento de Lenguaje Natural,Remoto,15,2025-08-15,12,1200
+PSTIA004,Asistente de IA generativa,"Implementación básica de modelos de generación de texto e imágenes.",Modelos Generativos,Híbrido,20,2025-08-20,20,1450
+PSTIA005,Apoyo en ética y gobernanza de IA,"Revisión de sesgos y elaboración de reportes sobre implicancias sociales de modelos IA.",IA Responsable,Remoto,15,2025-08-05,12,1100
+PSTIA006,Becario en visión por computadora,"Etiquetado de imágenes y soporte en clasificación y detección de objetos.",Visión Computacional,Presencial,20,2025-08-10,16,1400
+PSTIA007,Desarrollador junior de asistentes conversacionales,"Implementación de bots usando NLU/NLP y flujos conversacionales.",Chatbots y NLP,Remoto,20,2025-08-22,18,1350
+PSTIA008,Investigador de apoyo en robótica inteligente,"Colaboración en integración de sensores con modelos de IA para movimiento autónomo.",Robótica e IA,Híbrido,25,2025-09-01,24,1600
+PSTIA009,Tester de modelos IA,"Validación y prueba de modelos en distintos contextos de producción.",MLOps y Validación,Híbrido,20,2025-08-28,16,1400
+PSTIA010,Analista junior de sesgos algorítmicos,"Revisión de fairness, auditabilidad y decisiones en sistemas inteligentes.",Auditoría de IA,Remoto,15,2025-08-18,10,1150
+PSTDAT001,Asistente en construcción de pipelines de datos,"Soporte en el diseño de flujos ETL con Airflow y Python.",Arquitectura de Datos,Híbrido,25,2025-08-01,20,1450
+PSTDAT002,Analista de calidad de datos junior,"Verificación de integridad, duplicados y anomalías en datasets.",Calidad de Datos,Remoto,20,2025-08-10,16,1350
+PSTDAT003,Soporte en integración de fuentes de datos,"Unificación de datos provenientes de APIs, archivos y bases relacionales.",Integración de Datos,Remoto,20,2025-08-15,18,1400
+PSTDAT004,Becario en modelado de datos,"Normalización y documentación de esquemas conceptuales y lógicos.",Diseño de Bases de Datos,Presencial,20,2025-08-20,20,1300
+PSTDAT005,Auxiliar de migración de bases de datos,"Migración de sistemas heredados a entornos en la nube.",Ingeniería de Sistemas,Remoto,25,2025-09-01,24,1550
+PSTDAT006,Documentador técnico en proyectos de datos,"Creación de manuales y documentación de estructuras y procesos.",Gestión de Proyectos TI,Remoto,15,2025-07-30,10,1000
+PSTDAT007,Ayudante en implementación de lagos de datos,"Apoyo en configuración de entornos de almacenamiento masivo.",Big Data,Híbrido,20,2025-08-25,20,1400
+PSTDAT008,Especialista junior en SQL,"Desarrollo de queries y vistas para reportes operativos.",Base de Datos Relacional,Remoto,20,2025-08-05,16,1300
+PSTDAT009,Monitoreo de flujos de datos,"Supervisión de pipelines productivos y manejo de logs.",DataOps,Híbrido,25,2025-08-12,18,1400
+PSTDAT010,Auxiliar de gobernanza de datos,"Gestión de políticas de acceso, metadata y trazabilidad.",Seguridad y Compliance,Remoto,15,2025-08-18,12,1250
+PSTMEC001,Asistente de diseño mecánico,"Apoyo en modelado 3D con SolidWorks y revisión de planos técnicos.",Diseño Industrial,Presencial,25,2025-08-01,20,1450
+PSTMEC002,Becario en mantenimiento preventivo,"Soporte en planificación y ejecución de rutinas de mantenimiento mecánico.",Mantenimiento Industrial,Presencial,30,2025-08-15,16,1400
+PSTMEC003,Auxiliar en laboratorio de mecánica de fluidos,"Montaje de equipos, mediciones y análisis de resultados.",Ingeniería de Fluidos,Híbrido,20,2025-08-10,18,1300
+PSTMEC004,Soporte en análisis de vibraciones mecánicas,"Uso de sensores y software para evaluar condiciones de maquinaria.",Análisis de Máquinas,Presencial,20,2025-08-22,16,1350
+PSTMEC005,Asistente de producción industrial,"Supervisión de procesos de manufactura y control de calidad.",Producción y Manufactura,Presencial,30,2025-09-01,24,1500
+PSTMEC006,Colaborador en diseño de sistemas HVAC,"Diseño de sistemas de ventilación y refrigeración industrial.",Ingeniería Térmica,Híbrido,20,2025-08-05,20,1450
+PSTMEC007,Ayudante en robótica industrial,"Montaje y programación básica de brazos robóticos.",Automatización Industrial,Presencial,25,2025-08-28,18,1500
+PSTMEC008,Practicante en análisis estructural,"Simulación de cargas y esfuerzos con software FEA.",Mecánica de Estructuras,Remoto,20,2025-08-12,16,1400
+PSTMEC009,Asistente en proyectos de energías renovables,"Apoyo en sistemas mecánicos aplicados a energía solar y eólica.",Ingeniería Energética,Híbrido,20,2025-08-18,20,1350
+PSTMEC010,Operador en simuladores mecánicos,"Pruebas en banco y simulaciones de desempeño de prototipos.",Prototipado y Simulación,Presencial,25,2025-08-25,18,1300
+PSTELE001,Técnico en diseño de circuitos PCB,"Soporte en diseño, ruteo y validación de placas electrónicas con Altium Designer.",Electrónica de Diseño,Presencial,25,2025-08-05,20,1500
+PSTELE002,Asistente en desarrollo de firmware,"Programación básica de microcontroladores en C/C++ para sistemas embebidos.",Firmware y Hardware,Presencial,30,2025-08-15,16,1450
+PSTELE003,Colaborador en pruebas de compatibilidad electromagnética,"Apoyo en mediciones de interferencia y blindaje de equipos electrónicos.",Electromagnetismo Aplicado,Presencial,20,2025-08-10,18,1400
+PSTELE004,Apoyo en automatización con PLC,"Implementación de programas en controladores Siemens y monitoreo de procesos.",Automatización Industrial,Híbrido,25,2025-08-20,20,1550
+PSTELE005,Becario en electrónica de potencia,"Soporte en simulaciones y diseño de convertidores AC/DC y DC/DC.",Energía Electrónica,Remoto,20,2025-08-28,18,1450
+PSTELE006,Técnico en instrumentación industrial,"Calibración y mantenimiento de sensores, transductores y equipos de medición.",Control e Instrumentación,Presencial,30,2025-08-01,24,1500
+PSTELE007,Desarrollador de sistemas IoT junior,"Programación de sensores conectados con WiFi y Bluetooth para prototipos inteligentes.",Internet de las Cosas,Híbrido,20,2025-09-01,16,1400
+PSTELE008,Investigador de apoyo en dispositivos médicos,"Colaboración en diseño de equipos electrónicos para uso clínico.",Bioelectrónica,Híbrido,20,2025-08-25,20,1450
+PSTELE009,Tester de hardware electrónico,"Evaluación de prototipos, pruebas de estrés y documentación de fallos.",Validación Electrónica,Presencial,25,2025-08-18,18,1350
+PSTELE010,Asistente en telecomunicaciones digitales,"Configuración de equipos de transmisión, routers y redes inalámbricas.",Sistemas de Comunicación,Híbrido,20,2025-08-08,20,1400
+PSTIND001,Analista junior de mejora continua,"Identificación de cuellos de botella y optimización de procesos con Lean.",Producción y Procesos,Presencial,30,2025-08-01,20,1500
+PSTIND002,Apoyo en logística y cadena de suministro,"Gestión de inventarios, rutas de distribución y abastecimiento.",Logística Empresarial,Híbrido,25,2025-08-12,16,1450
+PSTIND003,Técnico en gestión de calidad,"Soporte en implementación de normas ISO y auditorías internas.",Gestión de Calidad,Presencial,30,2025-08-05,18,1500
+PSTIND004,Becario en análisis de tiempos y movimientos,"Observación y medición de actividades operativas para balanceo de líneas.",Ingeniería de Métodos,Presencial,20,2025-08-20,20,1300
+PSTIND005,Colaborador en diseño de layout industrial,"Elaboración de diagramas de distribución de planta con software CAD.",Ingeniería de Planta,Híbrido,20,2025-08-28,16,1350
+PSTIND006,Asistente en planificación de producción,"Carga de órdenes y seguimiento a cronogramas en sistemas ERP.",Planeamiento de Producción,Remoto,20,2025-09-01,20,1400
+PSTIND007,Auxiliar en sostenibilidad y eficiencia energética,"Apoyo en diagnósticos de consumo y planes de reducción de huella.",Gestión Ambiental Industrial,Híbrido,25,2025-08-10,24,1450
+PSTIND008,Practicante de ergonomía aplicada,"Evaluación de condiciones laborales y recomendaciones en puestos de trabajo.",Seguridad y Salud Ocupacional,Presencial,20,2025-08-18,16,1300
+PSTIND009,Consultor junior en transformación digital,"Apoyo en implementación de herramientas digitales en procesos productivos.",Industria 4.0,Híbrido,20,2025-08-22,20,1500
+PSTIND010,Analista de costos y presupuestos,"Determinación de costos directos e indirectos para propuestas de producción.",Costos Industriales,Remoto,15,2025-08-08,18,1250
+PSTCIV001,Asistente de topografía y geodesia,"Levantamiento de datos en campo con estación total y GPS diferencial.",Obras Civiles,Presencial,30,2025-08-01,20,1500
+PSTCIV002,Becario en diseño estructural,"Apoyo en análisis de cargas y cálculo de elementos con SAP2000 o ETABS.",Cálculo Estructural,Híbrido,20,2025-08-15,18,1450
+PSTCIV003,Colaborador en supervisión de obras civiles,"Control de avance de obra, materiales y seguridad en proyectos de construcción.",Supervisión de Proyectos,Presencial,30,2025-08-05,24,1550
+PSTCIV004,Asistente en planificación de proyectos,"Elaboración de cronogramas con MS Project y control de Gantt.",Gestión de Proyectos,Híbrido,25,2025-08-20,20,1400
+PSTCIV005,Técnico en laboratorio de suelos y materiales,"Realización de ensayos de resistencia y granulometría.",Ingeniería Geotécnica,Presencial,20,2025-08-12,16,1300
+PSTCIV006,Auxiliar en diseño vial,"Apoyo en trazado geométrico y señalización de vías urbanas y rurales.",Ingeniería de Transportes,Híbrido,25,2025-08-25,18,1450
+PSTCIV007,Ayudante en hidráulica y saneamiento,"Diseño de redes de agua potable y alcantarillado.",Hidráulica Urbana,Presencial,20,2025-08-08,20,1350
+PSTCIV008,Inspector técnico de seguridad,"Control de normas técnicas y reglamentos de construcción.",Normativa y Seguridad,Presencial,20,2025-08-28,16,1400
+PSTCIV009,Modelador BIM junior,"Creación de modelos 3D con Revit y coordinación interdisciplinaria.",BIM y Coordinación Digital,Remoto,20,2025-09-01,20,1500
+PSTCIV010,Asistente en restauración de patrimonio,"Colaboración en rehabilitación de estructuras históricas y estudios de conservación.",Arquitectura Patrimonial,Presencial,25,2025-08-18,20,1300
+PSTBME001,Pasante de ingeniería biomédica en campo hospitalario,"Apoyo en control de especificaciones técnicas y entrega de equipamiento médico.",Ingeniería Clínica,Presencial,30,2025-08-01,16,1200
+PSTBME002,Pasante técnico biomédico,"mantenimiento y calibración de dispositivos médicos en centros de salud.",Mantenimiento Biomédico,Presencial,25,2025-08-15,16,1300
+PSTBME003,Pasante en proyectos de diálisis,"Soporte en coordinación técnica y logística en programas de hemodiálisis.",Servicio Clínico,Presencial,25,2025-08-10,14,1250
+PSTBME004,Pasante en validación de dispositivos,"Colaboración en pruebas clínicas y cumplimiento normativo sanitario.",Validación Clínica,Presencial,20,2025-08-20,12,1300
+PSTBME005,Pasante en datos clínicos,"Análisis de registros y reportes para estudios de efectividad de equipos médicos.",Análisis de Datos Clínicos,Remoto,20,2025-09-01,18,1350
+PSTBME006,Pasante en software médico,"Desarrollo de software para imágenes médicas y pruebas de funcionalidad.",Software Biomédico,Remoto,20,2025-08-05,16,1300
+PSTBME007,Pasante en aseguramiento de calidad,"Soporte en auditorías internas FDA/ISO y control documental.",Calidad Regulación,Remoto,20,2025-08-28,16,1350
+PSTBME008,Pasante en usabilidad de equipos médicos,"Pruebas con usuarias/os en contextos clínicos para mejorar interfaz.",Usabilidad Médica,Presencial,15,2025-08-18,10,1150
+PSTBME009,Pasante en gestión regulatoria biomédica,"Preparación de archivos y documentos para registros sanitarios.",Regulación Sanitaria,Remoto,15,2025-08-12,14,1200
+PSTBME010,Pasante en tecnología 3D para dispositivos médicos,"Desarrollo de férulas y prótesis con impresión 3D en proyecto con UPM.",Bioingeniería,Presencial,20,2025-09-01,20,1400
+PSTAMB001,Practicante en ingeniería ambiental de campo,"Recolección y análisis de muestras de agua y suelos.",Monitoreo Ambiental,Presencial,30,2025-08-01,12,1200
+PSTAMB002,Pasante en proyectos de remediación,"Apoyo en diseño y seguimiento de sistemas para descontaminación de suelos.",Remediación Ambiental,Híbrido,25,2025-08-10,16,1300
+PSTAMB003,Practicante en laboratorio de agua,"Análisis físico-químico de agua potable y residual.",Control de Calidad de Agua,Presencial,25,2025-08-15,16,1350
+PSTAMB004,Pasante en informes de sostenibilidad,"Preparación de reportes ambientales y de impacto.",Regulación Ambiental,Remoto,20,2025-08-20,14,1250
+PSTAMB005,Practicante en modelado hidráulico,"Aplicación de modelos de simulación en proyectos de cuencas costeras.",Ingeniería Hidrológica,Híbrido,25,2025-08-05,12,1300
+PSTAMB006,Pasante en muestreo ambiental,"Trabajo de campo tomando muestras de aire, suelo y agua.",Monitoreo de Campo,Presencial,30,2025-08-28,16,1400
+PSTAMB007,Pasante en estadística aplicada ecológica,"Análisis cuantitativo de biodiversidad y variables ecotoxicológicas.",Estadística Ambiental,Remoto,20,2025-09-01,14,1250
+PSTAMB008,Practicante en cumplimiento ambiental,"Auditorías para verificación de permisos y normativa.",Compliance Ambiental,Remoto,20,2025-08-12,12,1200
+PSTAMB009,Pasante en sistemas de tratamiento,"Optimización de procesos de tratamiento de aguas residuales.",Tratamiento de Aguas,Presencial,25,2025-08-18,18,1300
+PSTAMB010,Practicante en SIG ambiental,"Creación de mapas y análisis geoespacial con QGIS.",GIS Ambiental,Híbrido,20,2025-08-22,14,1250
+PSTTEL001,Practicante en redes móviles 4G/5G,"Soporte en configuración y monitoreo RAN de redes móviles.",Redes Inalámbricas,Híbrido,30,2025-08-01,24,1600
+PSTTEL002,Soporte técnico en conectividad,"Atención y resolución de incidencias en redes empresariales.",Soporte Telecom,Presencial,30,2025-08-10,20,1450
+PSTTEL003,Practicante de campo en antenas,"Instalación y pruebas de antenas y estaciones base.",Campo Telecom,Presencial,30,2025-08-15,16,1500
+PSTTEL004,Pasantía en fibra óptica,"Instalación y mantenimiento de redes de fibra óptica terrestres/submarinas.",Fibra Óptica,Presencial,25,2025-08-05,20,1400
+PSTTEL005,Practicante en análisis de red,"Medición de rendimiento y uso de herramientas como Wireshark.",Análisis de Red Remoto,Remoto,20,2025-08-20,18,1350
+PSTTEL006,Practicante en planificación de espectro,"Soporte en asignación de bandas de frecuencia y regulaciones.",Planificación de Espectro,Híbrido,20,2025-09-01,18,1450
+PSTTEL007,Practicante en VoIP,"Configuración e implementación de sistemas de comunicación de voz sobre IP.",VoIP,Remoto,20,2025-08-12,16,1350
+PSTTEL008,Practicante en gestión de proyectos telecom,"Apoyo en cronogramas y documentación de proyectos.",Project Management,Híbrido,25,2025-08-18,20,1400
+PSTTEL009,Pasantía en testing de telecomunicaciones,"Pruebas de aceptación de hardware y sistemas telecom.",QA Telecom,Presencial,25,2025-08-22,18,1450
+PSTTEL010,Practicante en sistemas de microondas,"Soporte en diseño e implementación de enlaces microondas.",Microondas,Presencial,25,2025-08-28,20,1500
+PSTSIS001,Ingeniero Junior de TI,"Implementación y mantenimiento de infraestructura de TI; redes, servidores y soporte a usuarios.",Infraestructura TI,Presencial,40,2025-08-01,24,1800
+PSTSIS002,Desarrollador de software junior,"Participación en proyectos de desarrollo web con JavaScript/Angular y .NET.",Desarrollo Web,Híbrido,40,2025-08-15,18,1700
+PSTSIS003,Analista de transformación tecnológica,"Apoyo en proyectos de modernización de sistemas y automatización de procesos.",Transformación Digital,Híbrido,30,2025-08-05,20,1600
+PSTSIS004,Ingeniero de control de proyectos,"Seguimiento de cronogramas y reporte de horas y estado de proyectos TI.",Project Management,Presencial,40,2025-08-10,22,1750
+PSTSIS005,Administrador de bases de datos junior,"Manejo y optimización de SQL Server en entornos corporativos.",DBA,Híbrido,30,2025-08-20,20,1650
+PSTSIS006,Especialista en seguridad informática,"Soporte en implementación de políticas y monitoreo de vulnerabilidades.",Ciberseguridad,Remoto,35,2025-09-01,24,1700
+PSTSIS007,Soporte de redes FTTH,"Gestión y diagnóstico de incidencias en redes de fibra óptica.",Redes de Telecomunicaciones,Presencial,40,2025-08-12,20,1600
+PSTSIS008,Ingeniero DevOps junior,"Automatización de pipelines CI/CD y administración de contenedores.",DevOps,Híbrido,35,2025-08-18,22,1750
+PSTSIS009,Consultor de sistemas empresariales,"Implementación de ERP y formación a usuarios en empresa financiera.",ERP/CRM,Presencial,40,2025-08-25,24,1800
+PSTSIS010,Ingeniero de soporte TI corporativo,"Gestión integral de incidencias y desastres en sistemas empresariales.",Soporte TI,Remoto,35,2025-09-01,24,1700
+PSTMEC001,Ingeniero de integración IoT,"Instalación y programación de sensores y actuadores en plantas de producción.",IoT Industrial,Presencial,40,2025-08-01,24,1700
+PSTMEC002,Ingeniero de mantenimiento mecánico,"Supervisión y ejecución en mantenimiento preventivo de maquinaria pesada.",Mantenimiento Automotriz,Presencial,40,2025-08-15,20,1650
+PSTMEC003,Desarrollador de sistemas de control,"Implementación de controladores PLC/SCADA para procesos automatizados.",Automatización Industrial,Híbrido,35,2025-08-10,22,1750
+PSTMEC004,Ingeniero en robótica aplicada,"Diseño y puesta en marcha de brazos robóticos en líneas de ensamblaje.",Robótica,Presencial,40,2025-08-20,24,1800
+PSTMEC005,Ingeniero de diseño mecánico 3D,"Modelado de piezas y prototipos mecánicos con CAD para impresión rápida.",Diseño Mecánico,Remoto,30,2025-09-01,20,1600
+PSTMEC006,Especialista en visión artificial,"Implementación de sistemas de inspección automática con cámaras y visión por computadora.",Visión por Computador,Presencial,35,2025-08-18,22,1750
+PSTMEC007,Ingeniero de pruebas funcionales,"Validación de prototipos electrónicos y mecánicos en banco de pruebas.",Testing,Presencial,35,2025-08-25,20,1650
+PSTMEC008,Ingeniero de firmware embebido,"Desarrollo de firmware para microcontroladores en sistemas móviles.",Sistemas Embebidos,Remoto,30,2025-08-08,22,1700
+PSTMEC009,Ingeniero en control de calidad,"Aplicación de normas ASTM/NTP en prototipos y líneas de producción mecánicas.",Control de Calidad,Híbrido,35,2025-08-12,18,1600
+PSTMEC010,Ingeniero de proyectos electromecánicos,"Coordinación técnica de equipos multidisciplinares en automatización.",Gestión de Proyectos Electromecánicos,Presencial,40,2025-09-01,24,1800
+PSTER001,Ingeniero de proyectos solares,"Planificación y supervisión de instalación de plantas fotovoltaicas.",Proyectos Fotovoltaicos,Híbrido,40,2025-08-01,24,1800
+PSTER002,Ingeniero en mantenimiento eólico,"Monitoreo y mantenimiento de aerogeneradores.",Mantenimiento Eólico,Presencial,40,2025-08-15,20,1750
+PSTER003,Especialista en eficiencia energética,"Auditoría de sistemas y propuesta de mejora en edificios.",Eficiencia Energética,Remoto,30,2025-08-10,20,1650
+PSTER004,Ingeniero de subestaciones renovables,"Diseño y supervisión de subestaciones para plantas renovables.",Subestaciones,Híbrido,35,2025-08-20,22,1750
+PSTER005,Coordinador de seguridad HSE renovables,"Control de seguridad en parques eólicos y solares.",Seguridad Industrial,Presencial,40,2025-09-01,24,1800
+PSTER006,Ingeniero en sistemas de almacenamiento,"Implementación de baterías y sistemas híbridos de generación.",Almacenamiento de Energía,Presencial,35,2025-08-18,22,1700
+PSTER007,Analista de recursos renovables,"Pronóstico y análisis de viento y radiación para dimensionar proyectos.",Análisis de Recursos,Remoto,30,2025-08-25,20,1650
+PSTER008,Ingeniero de planta renovable,"Operación y optimización de planta solar con SCADA.",Operación de Planta,Híbrido,40,2025-08-08,24,1800
+PSTER009,Ingeniero de comisionamiento eólico,"Pruebas finales y puesta en marcha de parque eólico.",Comisionamiento,Presencial,40,2025-08-12,22,1750
+PSTER010,Ingeniero comercial renovables,"Venta técnica de soluciones renovables y atención a clientes.",Comercialización Técnica,Híbrido,30,2025-09-01,24,1650
+PSTGEO001,Geólogo de Exploraciones Junior,"Cartografiado geológico, toma de muestras y supervisión de sondajes.",Exploración Minerometalúrgica,Presencial,40,2025-08-01,24,2500
+PSTGEO002,Ingeniero Geomécanico,"Caracterización geomecánica del macizo rocoso y análisis numérico.",Geotecnia,Presencial,40,2025-08-15,24,2200
+PSTGEO003,Geólogo de Mina,"Interpretación geológica interior mina y apoyo en bases de datos geológicos.",Geología de Minas,Presencial,40,2025-08-10,24,2300
+PSTGEO004,Especialista HSE en Geología,"Implementación de sistemas de seguridad y medio ambiente en faenas.",Seguridad y Ambiente,Presencial,40,2025-08-20,24,2000
+PSTGEO005,Supervisor de Geotecnia,"Control de estabilidad y monitoreo en cortes y taludes.",Geotecnia,Presencial,40,2025-09-01,24,2400
+PSTGEO006,Analista de Costos Geológicos,"Estimación de costos y productividad en proyectos de exploración.",Planificación y Costos,Remoto,30,2025-08-05,20,2100
+PSTGEO007,Geólogo Hidrogeológico,"Estudios de flujo subterráneo y diseño de pozos de agua.",Hidrogeología,Híbrido,35,2025-08-25,24,2300
+PSTGEO008,Geólogo de Campo Senior,"Ejecuta mapeo geológico y supervisión de personal en áreas remotas.",Trabajos de Campo,Presencial,40,2025-08-18,24,2600
+PSTGEO009,Coordinador de Exploraciones,"Gestión de cronogramas, presupuestos y contratos con proveedores.",Gestión de Proyectos,Híbrido,40,2025-08-22,24,2700
+PSTGEO010,Geólogo WellSite Petrolero,"Apoyo en monitoreo geológico de perforación de pozos.",Sector Hidrocarburos,Presencial,40,2025-08-08,24,2400
+PSTMIN001,Ingeniero de Mina Jefe,"Planificación y supervisión de operaciones en yacimientos subterráneos.",Operaciones Mineras,Presencial,45,2025-08-01,36,3500
+PSTMIN002,Ingeniero de Perforación y Tronadura,"Programación de voladuras y control de perforación.",Tecnología Minera,Presencial,45,2025-08-15,24,3200
+PSTMIN003,Ingeniero de Seguridad Minera,"Implementación de normas HSE y evaluaciones de riesgo.",Seguridad y Salud Ocupacional,Presencial,40,2025-08-10,24,3100
+PSTMIN004,Jefe de Operaciones Mineras,"Coordinación de contratistas y logística de operación.",Gestión de Operaciones,Presencial,45,2025-09-01,36,3600
+PSTMIN005,Ingeniero de Planificación Minera,"Modelamiento digital y programación de movimientos de tierra.",Planificación,Remoto,35,2025-08-05,24,3300
+PSTMIN006,Supervisor de Procesos,"Control de molienda, flotación y transporte mineral.",Procesamiento de Minerales,Presencial,40,2025-08-20,24,3200
+PSTMIN007,Ingeniero de Ventilación de Minas,"Diseño de sistemas de ventilación en mina subterránea.",Ingeniería de Ventilación,Presencial,40,2025-08-18,24,3000
+PSTMIN008,Ingeniero de Costos Mineros,"Estimación de costos CAPEX/OPEX y análisis financiero.",Costos y Presupuestos,Remoto,30,2025-08-22,24,3200
+PSTMIN009,Ingeniero de Comunicaciones en Faena,"Implementación de redes de telecomunicaciones en sitio minero.",Telecomunicaciones Mineras,Híbrido,35,2025-08-08,24,3100
+PSTMIN010,Ingeniero de Cierre de Mina,"Planificación de rehabilitación y cierre ambiental de mina.",Ingeniería Ambiental Minera,Presencial,40,2025-08-12,24,3150
+PSTGEOF001,Geofísico de Campo,"Operación de sísmica superficial y procesamiento de datos en sitio.",Prospección Geofísica,Presencial,45,2025-08-01,24,2800
+PSTGEOF002,Geofísico en Hidrocarburos,"Interpretación de datos sísmicos 2D/3D para exploración petrolera.",Exploración Petrolera,Presencial,45,2025-08-15,24,3000
+PSTGEOF003,Analista de datos geofísicos,"Procesamiento de registros GPR y sísmica en gabinete.",Procesamiento de Datos Remoto,Remoto,35,2025-08-10,24,2700
+PSTGEOF004,Geofísico de Prospección,"Localización de recursos usando magnetometría y gravimetría.",Minería,Presencial,40,2025-09-01,24,2900
+PSTGEOF005,Geofísico Sismológico,"Monitoreo sísmico y análisis de riesgos en zonas volcánicas.",Gestión de Riesgos Geológicos,Presencial,40,2025-08-05,24,2850
+PSTGEOF006,Geofísico Offshore,"Perfiles sísmicos en subsuelo marino y análisis geotécnico.",Exploración Marina,Presencial,45,2025-08-20,24,3100
+PSTGEOF007,Consultor de Geofísica Ambiental,"Estudios supresivos con GPR para detección de contaminantes.",Geofísica Ambiental,Híbrido,35,2025-08-18,24,2650
+PSTGEOF008,Ingeniero de Geodesia,"Estaciones GNSS y levantamientos de precisión para estudios geológicos.",Geodesia,Presencial,40,2025-08-22,24,2750
+PSTGEOF009,Geofísico en Energías Renovables,"Evaluación geofísica para construcción de infraestructuras y recolección de viento.",Ingeniería de Recursos Naturales,Remoto,30,2025-08-08,24,2600
+PSTGEOF010,Programador de Procesamiento Geofísico,"Desarrollo de algoritmos en Python/MATLAB para procesamiento sísmico.",Desarrollo de Software Geofísico,Remoto,35,2025-08-12,24,2800
+PSTGEO001,Geólogo Junior de Exploraciones,"Cartografía geológica, toma de muestras y supervisión en sondajes.",Exploración Minerometalúrgica,Presencial,40,2025-08-01,24,2500
+PSTGEO002,Ingeniero Geomécanico,"Caracterización geomecánica de macizo rocoso y estabilidad de taludes.",Geotecnia,Presencial,40,2025-08-15,24,2200
+PSTGEO003,Geólogo de Mina,"Interpretación geológica dentro de mina y gestión de bases de datos.",Geología de Minas,Presencial,40,2025-08-10,24,2300
+PSTGEO004,Especialista HSE Geológico,"Implementación de protocolos de seguridad y medio ambiente en faena.",Seguridad y Ambiente,Presencial,40,2025-08-20,24,2000
+PSTGEO005,Supervisor de Geotecnia,"Monitoreo de estabilidad en cortes rocosos y estructuras.",Geotecnia,Presencial,40,2025-09-01,24,2400
+PSTGEO006,Analista de Costos Geológicos,"Estimación de costos y rendimientos en programas de exploración.",Planificación y Costos,Remoto,30,2025-08-05,20,2100
+PSTGEO007,Geólogo Hidrogeológico,"Estudios de flujo subterráneo y diseño de pozos de agua.",Hidrogeología,Híbrido,35,2025-08-25,24,2300
+PSTGEO008,Geólogo de Campo Senior,"Supervisión de personal y mapeo en terreno difícil.",Trabajos de Campo,Presencial,40,2025-08-18,24,2600
+PSTGEO009,Coordinador de Exploraciones,"Gestión de cronogramas, presupuestos y contratistas.",Gestión de Proyectos,Híbrido,40,2025-08-22,24,2700
+PSTGEO010,Geólogo Wellsite Petrolero,"Seguimiento geológico durante perforación de pozos.",Sector Hidrocarburos,Presencial,40,2025-08-08,24,2400
+PSTADM001,Administrador Junior,"Gestionar recursos humanos, compras y control administrativo.",Administración General,Presencial,40,2025-08-01,24,1700
+PSTADM002,Analista de Negocios Junior,"Análisis de procesos y apoyo en toma de decisiones estratégicas.",Business Intelligence,Híbrido,35,2025-08-10,20,1600
+PSTADM003,Coordinador Académico Junior,"Planificación y supervisión de actividades formativas en instituto.",Educación Corporativa,Presencial,40,2025-08-05,22,1500
+PSTADM004,Supervisor de Personal,"Control de personal y meditación de KPIs operativos.",Gestión de RRHH,Presencial,40,2025-08-15,24,1800
+PSTADM005,Administrador de Tienda,"Gestión de stock, atención al cliente y equipo de ventas.",Retail,Presencial,40,2025-08-20,24,1600
+PSTADM006,Formador en Administración,"Diseño y dictado de cursos de gestión empresarial.",Capacitación y Formación,Presencial,20,2025-09-01,12,1400
+PSTADM007,Asistente Personal Ejecutivo,"Gestión de agenda, comunicación y logística para dirección.",Asistencia Ejecutiva,Presencial,40,2025-08-12,24,1500
+PSTADM008,Administrador de Estación,"Gestión operativa y control administrativo de estación logística.",Operaciones,Presencial,40,2025-08-18,24,1650
+PSTADM009,Analista Comercial,"Monitoreo de ventas, análisis de mercado y apoyo en estrategia.",Comercialización,Híbrido,35,2025-08-25,20,1550
+PSTADM010,Administrador de Recursos Humanos,"Gestión de planillas, compensaciones y clima laboral.",RRHH,Remoto,35,2025-09-01,24,1700
+PSTCON001,Contador Junior (San Borja),"Conciliación bancaria, registro de facturas e impuestos.",Contabilidad General,Presencial,40,2025-08-01,24,2000
+PSTCON002,Analista de Tributación Junior,"Preparación y presentación de declaraciones de impuestos indirectos.",Tributación,Presencial,40,2025-08-10,18,2100
+PSTCON003,Asistente Contable Part‑time,"Registro contable básico y apoyo en cierres mensuales.",Contabilidad,Presencial,20,2025-08-05,12,1130
+PSTCON004,Analista Contable Junior (Arequipa),"Elaboración de reportes financieros y análisis de cuentas.",Contabilidad Financiera,Presencial,40,2025-08-15,24,2000
+PSTCON005,Control Documentario Junior,"Gestión documental de proyectos de ingeniería y reportes.",Control Documentario,Híbrido,35,2025-08-20,24,1800
+PSTCON006,Contador Financiero Junior,"Lleva registro de compras, ventas, conciliación y cierre contable.",Finanzas,Presencial,40,2025-08-22,24,2000
+PSTCON007,Contador Junior – Gestión de Impuestos,"Preparación de declaraciones y retenciones para PYMES.",Impuestos,Remoto,35,2025-08-18,24,1900
+PSTCON008,Asistente Contable (Victor Dou),"Registro de comprobantes y manejo de software contable.",Contabilidad Electrónica,Presencial,30,2025-08-25,24,1130
+PSTCON009,Analista Junior de Activos Fijos,"Control de activos, depreciaciones y reportes contables.",Activos Fijos,Presencial,40,2025-09-01,24,2000
+PSTCON010,Contador Junior Innovador (Remote),"Apoyo contable y financiero con sistemas ERP modernos.",ERP/Contabilidad,Remoto,35,2025-08-12,24,1950
+PSTECO001,Economista Junior de Políticas Públicas,"Análisis de impacto tributario y evaluación de iniciativas normativas.",Sector Público,Presencial,40,2025-08-01,24,5000
+PSTECO002,Analista Económico de Mercado,"Investigación y pronóstico de precios y demanda en sectores industriales.",Consultoría Económica,Remoto,35,2025-08-15,20,4800
+PSTECO003,Consultor Junior en Desarrollo Regional,"Estudios de viabilidad económica para proyectos municipales.",Desarrollo Local,Híbrido,30,2025-08-10,18,4700
+PSTECO004,Economista de Riesgos Macroeconómicos,"Modelado de escenarios económicos para entidades financieras.",Banca,Remoto,35,2025-08-20,22,5200
+PSTECO005,Economista de Comercio Exterior,"Estudios arancelarios y acuerdos comerciales.",Sector Exportador,Presencial,40,2025-09-01,24,5100
+PSTECO006,Analista en Econometría,"Aplicación de modelos econométricos a bases de datos de encuestas.",Investigación Académica,Híbrido,30,2025-08-05,20,4900
+PSTECO007,Economista Ambiental,"Evaluación económica de proyectos sostenibles y compensaciones ambientales.",Consultoría Ambiental,Remoto,30,2025-08-25,22,5000
+PSTECO008,Analista de Transporte Urbano,"Economicfósis en rutas y tarifas para transporte público.",Sector Transporte,Presencial,40,2025-08-18,24,4950
+PSTECO009,Especialista en Desarrollo Económico Local,"Proyectos de presupuesto participativo y proyección de ingresos municipales.",Sector Público,Híbrido,35,2025-08-22,24,5000
+PSTECO010,Economic Advisor Start‑up,"Asesoría económica y financiera para nuevas empresas tecnológicas.",Emprendimiento,Remoto,30,2025-08-08,20,4800
+PSTFIN001,Analista Financiero Junior,"Análisis de estados financieros, proyección y control presupuestal.",Finanzas Corporativas,Presencial,40,2025-08-01,24,3500
+PSTFIN002,Analista de Tesorería,"Gestión de flujo de caja y planificación de pagos y cobranzas.",Tesorería,Híbrido,35,2025-08-15,20,3400
+PSTFIN003,Especialista en Planeamiento y Control,"Elaboración de presupuestos anuales y seguimiento de desviaciones.",Planeamiento Financiero,Remoto,35,2025-08-10,22,3600
+PSTFIN004,Analista de Inversiones,"Evaluación de proyectos y análisis de rentabilidad financiera.",Inversiones,Presencial,40,2025-08-20,24,3700
+PSTFIN005,Analista de Riesgos Financieros,"Modelado de escenarios y medición de riesgo de mercado.",Riesgos Financieros,Remoto,35,2025-09-01,24,3800
+PSTFIN006,Analista de Portafolio de Inversiones,"Monitoreo de portafolios y reporte de desempeño estratégico.",Gestión de Portafolio,Híbrido,35,2025-08-05,20,3800
+PSTFIN007,Analista de Crédito,"Estudio de solvencia y análisis crediticio para otorgamiento de créditos.",Crédito Bancario,Presencial,40,2025-08-25,24,3600
+PSTFIN008,Analista de Control de Gestión,"Indicadores financieros y operacionales para mejora de performance.",Control de Gestión,Remoto,35,2025-08-18,24,3500
+PSTFIN009,Asesor Financiero Corporativo,"Revisión de inversiones, estructura de capital y fortalecimiento corporativo.",Asesoría Financiera,Híbrido,35,2025-08-22,24,3700
+PSTFIN010,Especialista en Cumplimiento Financiero,"Monitoreo de regulación y preparación de reportes regulatorios.",Compliance Financiero,Remoto,30,2025-08-08,24,3600
+PSTNIN001,Analista de Negocios Internacionales,"Identificación de oportunidades de exportación y estudios de mercado.",Comercio Exterior,Remoto,35,2025-08-01,24,4500
+PSTNIN002,Coordinador de Exportaciones,"Logística internacional y gestión documental aduanera.",Logística Internacional,Presencial,40,2025-08-15,24,4400
+PSTNIN003,Asesor Comercial Internacional,"Ventas y desarrollo de nuevos mercados en región LATAM.",Ventas Internacionales,Híbrido,35,2025-08-10,24,4600
+PSTNIN004,Analista de Comercio Exterior,"Aranceles, clasificación de mercancías y negociación con proveedores.",Regulación Aduanera,Remoto,30,2025-08-20,24,4450
+PSTNIN005,Especialista en Market Intelligence Internacional,"Análisis competitivo y tendencias del mercado global.",Inteligencia de Mercado,Remoto,30,2025-09-01,20,4550
+PSTNIN006,Gerente de Cuentas Internacionales,"Gestión de clientes y coordinación logística para importaciones.",Gestión de Clientes,Presencial,40,2025-08-05,24,4800
+PSTNIN007,Project Manager de Comercio Exterior,"Implementación de proyectos de internacionalización de PYMES.",Gestión de Proyectos Internacionales,Híbrido,35,2025-08-25,24,4700
+PSTNIN008,Analista de Operaciones Globales,"Optimización de rutas, costos y aduanas en cadena global.",Operaciones Internacionales,Remoto,35,2025-08-18,24,4500
+PSTNIN009,Consultor de Estrategia Internacional,"Diagnóstico y diseño de estrategia para expansión global.",Consultoría Estratégica,Híbrido,30,2025-08-22,24,4650
+PSTNIN010,Coordinador de Comercio Digital Internacional,"Desarrollo de plataformas B2B y e-commerce internacional.",E-commerce Internacional,Remoto,30,2025-08-08,24,4550
+PSTGP001,Ingeniero de Proyectos Junior,"Coordinación de actividades con contratistas y seguimiento de cronogramas.",Ingeniería de Proyectos,Presencial,40,2025-08-01,24,3500
+PSTGP002,Coordinador de Proyectos TI,"Gestión de recursos y avance de proyectos de software.",Tecnología de Proyectos,Híbrido,35,2025-08-15,20,3300
+PSTGP003,Especialista en Control de Costos,"Monitoreo de presupuesto y reportes financieros en proyectos.",Finanzas de Proyectos,Remoto,30,2025-08-05,20,3400
+PSTGP004,Project Manager de Infraestructura,"Supervisión técnica y logística de obras civiles.",Construcción de Proyectos,Presencial,45,2025-08-10,24,4000
+PSTGP005,Analista de Gestión de Proyectos,"Indicadores de avance, riesgos y planeamiento estratégico.",PMO,Híbrido,35,2025-08-20,24,3400
+PSTGP006,Asistente de Oficina Técnica,"Apoyo en documentación técnica y coordinación con stakeholders.",Documentación de Proyectos,Presencial,40,2025-08-25,18,3200
+PSTGP007,Consultor de Metodologías Ágiles,"Implementación de Scrum/Kanban y educación de equipos.",Agile Coaching,Remoto,30,2025-09-01,20,3600
+PSTGP008,Gestor de Proyectos Sustentables,"Planificación de hitos medioambientales y permisos HSE.",Proyectos Sostenibles,Híbrido,35,2025-08-12,24,3500
+PSTGP009,Analista de Riesgos de Proyectos,"Evaluación de riesgos y proyecciones escenario en proyectos.",Gestión de Riesgos,Remoto,30,2025-08-18,20,3300
+PSTGP010,Ingeniero de Cronograma,"Desarrollo y actualización de cronogramas en MS Project y Primavera.",Planificación de Proyectos,Presencial,40,2025-08-22,24,3600
+PSTRH001,Analista de Recursos Humanos,"Procesos de selección, contratos y actualización de legajos.",Operaciones de RRHH,Presencial,40,2025-08-01,24,3200
+PSTRH002,Especialista en Nóminas y Beneficios,"Gestión de planillas, seguros y beneficios corporativos.",Remuneraciones,Híbrido,35,2025-08-10,24,3300
+PSTRH003,Analista de Clima Laboral,"Encuestas de satisfacción y programas de bienestar .",Clima Organizacional,Remoto,30,2025-08-05,20,3100
+PSTRH004,Coordinador de Reclutamiento,"Publicación de vacantes y entrevistas a candidatos.",Atracción de Talento,Presencial,40,2025-08-15,24,3400
+PSTRH005,Analista de Formación y Desarrollo,"Diseño y seguimiento de planes de capacitación.",Desarrollo Organizacional,Híbrido,35,2025-08-20,24,3250
+PSTRH006,Gestor de Relaciones Laborales,"Negociación con sindicatos y resolución de conflictos.",Relaciones Laborales,Presencial,40,2025-09-01,24,3500
+PSTRH007,Especialista en Salud Ocupacional,"Implementación de políticas SST y coordinación de exámenes.",SST,Presencial,40,2025-08-12,24,3450
+PSTRH008,Analista de Indicadores de RRHH,"Reportes en Excel/Power BI sobre KPIs de personal.",Analítica de RRHH,Remoto,30,2025-08-18,20,3300
+PSTRH009,Consultor Junior de HR Business Partner,"Soporte a gerencias con métricas, procesos y proyectos de personal.",HRBP,Híbrido,35,2025-08-22,24,3500
+PSTRH010,Coordinador de Onboarding,"Desarrollo de programa de integración de nuevos colaboradores.",Integración,Presencial,40,2025-08-08,20,3150
+PSTGP001,Ingeniero de Proyectos Junior,"Coordinación de actividades con contratistas y seguimiento de cronogramas.",Ingeniería de Proyectos,Presencial,40,2025-08-01,24,3500
+PSTGP002,Coordinador de Proyectos TI,"Gestión de recursos y avance de proyectos de software.",Tecnología de Proyectos,Híbrido,35,2025-08-15,20,3300
+PSTGP003,Especialista en Control de Costos,"Monitoreo de presupuesto y reportes financieros en proyectos.",Finanzas de Proyectos,Remoto,30,2025-08-05,20,3400
+PSTGP004,Project Manager de Infraestructura,"Supervisión técnica y logística de obras civiles.",Construcción de Proyectos,Presencial,45,2025-08-10,24,4000
+PSTGP005,Analista de Gestión de Proyectos,"Indicadores de avance, riesgos y planeamiento estratégico.",PMO,Híbrido,35,2025-08-20,24,3400
+PSTGP006,Asistente de Oficina Técnica,"Apoyo en documentación técnica y coordinación con stakeholders.",Documentación de Proyectos,Presencial,40,2025-08-25,18,3200
+PSTGP007,Consultor de Metodologías Ágiles,"Implementación de Scrum/Kanban y educación de equipos.",Agile Coaching,Remoto,30,2025-09-01,20,3600
+PSTGP008,Gestor de Proyectos Sustentables,"Planificación de hitos medioambientales y permisos HSE.",Proyectos Sostenibles,Híbrido,35,2025-08-12,24,3500
+PSTGP009,Analista de Riesgos de Proyectos,"Evaluación de riesgos y proyecciones escenario en proyectos.",Gestión de Riesgos,Remoto,30,2025-08-18,20,3300
+PSTGP010,Ingeniero de Cronograma,"Desarrollo y actualización de cronogramas en MS Project y Primavera.",Planificación de Proyectos,Presencial,40,2025-08-22,24,3600
+PSTBS001,Analista de Banca Corporativa,"Evaluación de crédito y atención a grandes empresas.",Banca Corporativa,Presencial,40,2025-08-01,24,3400
+PSTBS002,Analista de Riesgos de Crédito,"Modelamiento de riesgo y análisis de cartera.",Gestión de Riesgo,Remoto,35,2025-08-15,24,3600
+PSTBS003,Analista de Seguros Vida,"Revisión de pólizas, emisión y atención a clientes.",Seguros de Vida,Presencial,40,2025-08-10,24,3500
+PSTBS004,Ejecutivo de Banca PYME,"Asesoría financiera y mantenimiento de cartera PYME.",Ventas Banca,Presencial,40,2025-08-20,24,3700
+PSTBS005,Coordinador de Recuperaciones,"Gestión de cobranzas y renegociación de deudas.",Cobranzas,Híbrido,35,2025-09-01,24,3300
+PSTBS006,Analista de Compliance Financiero,"Monitoreo de regulaciones y elaboración de reportes.",Regulación Financiera,Remoto,30,2025-08-12,24,3400
+PSTBS007,Especialista en Planeamiento Financiero,"Proyecciones y presupuesto de cartera de seguros.",Planeamiento Estratégico,Híbrido,35,2025-08-18,24,3600
+PSTBS008,Analista de Inteligencia de Mercado Banca,"Análisis de tendencias y comportamiento de clientes.",BI Bancario,Remoto,30,2025-08-22,24,3500
+PSTBS009,Ejecutivo de Banca de Inversión Junior,"Apoyo en emisión de bonos y asesoría financiera.",Inversiones Bancarias,Presencial,40,2025-08-08,24,3800
+PSTBS010,Gestor de Siniestros,"Atención y liquidación de reclamos en seguros generales.",Seguros Generales,Presencial,40,2025-08-25,24,3450
+PSTGPB001,Asesor en Contrataciones Estatales,"Elaboración de bases y procedimientos para licitaciones públicas.",Contrataciones Públicas,Presencial,40,2025-08-01,24,6500
+PSTGPB002,Especialista en Planificación Pública,"Ejecución y monitoreo del presupuesto público y obras sociales.",Planificación y Presupuesto,Presencial,40,2025-08-10,24,7200
+PSTGPB003,Analista de Inversión Pública,"Formulación y evaluación de proyectos bajo SNIP y SIGEN.",Inversión Pública,Remoto,35,2025-08-15,24,6000
+PSTGPB004,Gestor de Modernización del Estado,"Implementación de plataformas digitales y servicios en línea.",Modernización Estatal,Híbrido,35,2025-09-01,24,6800
+PSTGPB005,Coordinador de proyectos municipales,"Gestión de servicios públicos y ejecución de proyectos locales.",Gestión Local,Presencial,40,2025-08-05,24,5500
+PSTGPB006,Analista de Procesos Gubernamentales,"Optimización y documentación de procedimientos administrativos.",Gestión de Procesos,Remoto,30,2025-08-20,20,5300
+PSTGPB007,Especialista en Regulación Pública,"Elaboración y seguimiento de normativas sectoriales.",Regulación Estatal,Híbrido,35,2025-08-12,24,6000
+PSTGPB008,Consultor de Gobierno Digital,"Implementación de gestión documental y firmas digitales.",Transformación Digital,Remoto,30,2025-08-18,20,5800
+PSTGPB009,Jefe de Programa Social Estatal,"Coordinación y supervisión de programas sociales y donaciones.",Programas Sociales,Presencial,40,2025-08-22,24,6500
+PSTGPB010,Analista de Políticas Públicas,"Investigación, redacción y evaluación de iniciativas de política pública.",Política Pública,Híbrido,35,2025-08-08,20,5900
+PSTAT001,Jefe de Operaciones Turísticas,"Supervisión de resort, coordinación de servicios y atención al cliente.",Operaciones Hotel‑Turismo,Presencial,40,2025-08-01,24,2000
+PSTAT002,Supervisor de Alimentos y Bebidas,"Gestión del servicio restaurante, control de stock y calidad.",Alimentos y Bebidas,Presencial,40,2025-08-10,24,2800
+PSTAT003,Encargado de Front Desk,"Coordinación de reservas, atención de huéspedes y facturación.",Recepción Hotelera,Presencial,40,2025-08-05,24,1500
+PSTAT004,Asistente de Finanzas Hotelera,"Apoyo en conciliaciones, costos y control financiero.",Finanzas Hotel,Remoto,30,2025-08-15,24,2200
+PSTAT005,Coordinador de Eventos,"Planificación logística y ejecución de eventos y banquetes.",Eventos,Presencial,40,2025-08-20,24,2100
+PSTAT006,Customer Service Agent Hotelera,"Gestión de consultas online y atención personalizada de huéspedes.",Servicio al Cliente,Presencial,40,2025-08-25,24,1500
+PSTAT007,Recepcionista de Hotel Gestión,"Atención a huéspedes, check‑in/out y coordinación interna.",Recepción,Presencial,40,2025-09-01,24,1500
+PSTAT008,Gerente de Zona,"Supervisión de varias unidades hoteleras y control operativo.",Gestión Hotelera,Presencial,40,2025-08-12,24,3000
+PSTAT009,Administrador de Restaurante Hotelero,"Control de inventario, personal y atención al cliente.",Restaurante Hotel,Presencial,40,2025-08-18,24,2500
+PSTAT010,Asistente de Reservas Cadena Hotelera,"Gestión de reservas B2B y atención a agencias, frecuencia remota.",Reservas,Remoto,30,2025-08-22,24,1600
+PSTDE001,Analista Comercial Senior,"Estudios de mercado, ventas corporativas y estrategias de negocio.",Comercial,Presencial,40,2025-08-01,24,3200
+PSTDE002,Coordinador de Operaciones,"Gestión de almacén, logística y procesos internos.",Operaciones,Presencial,40,2025-08-10,24,3400
+PSTDE003,Jefe de Desarrollo de Negocios,"Identificación de oportunidades B2B e internacionales.",Ventas Estratégicas,Híbrido,35,2025-08-05,24,3600
+PSTDE004,Gerente de Proyectos Empresariales,"Implementación de proyectos internos y mejora de procesos.",Project Management,Remoto,35,2025-08-15,24,3800
+PSTDE005,Consultor Corporativo Junior,"Análisis de procesos y asesoría empresarial a PYMES.",Consultoría,Remoto,30,2025-08-20,24,3000
+PSTDE006,Administrador de Almacén Industrial,"control de stock, personal y flujos de salida.",Logística,Presencial,40,2025-08-25,24,3100
+PSTDE007,Ejecutivo Comercial Internacional,"Gestión de clientes extranjeros, exportación e importación.",Comercio Internacional,Híbrido,35,2025-09-01,24,3300
+PSTDE008,Especialista en Marketing Digital,"Gestión de campañas, analítica y estrategia online.",Marketing,Híbrido,35,2025-08-12,24,3200
+PSTDE009,Analista de Riesgos Empresariales,"Evaluación de riesgos operativos y elaboración de planes de contingencia.",Gestión de Riesgos,Remoto,30,2025-08-18,24,3500
+PSTDE010,Director de Unidad de Negocios,"Responsabilidad total de P&L, equipo y crecimiento de unidad.",Dirección Ejecutiva,Presencial,40,2025-08-22,24,4000
+PSTEMP001,Gestor de incubadora de startups,"Selección y mentoría de emprendimientos en etapa temprana.",Aceleración de Startups,Presencial,40,2025-08-01,24,4500
+PSTEMP002,Consultor junior de innovación,"Detección de oportunidades y diseño de pilotos innovadores.",Transformación Empresarial,Híbrido,35,2025-08-10,20,4200
+PSTEMP003,Ecosistema builder tech,"Coordinación entre proyectos emprendedores y entidades de apoyo.",Networking e innovación,Remoto,30,2025-08-05,18,4000
+PSTEMP004,Especialista en Design Thinking,"Facilitación de talleres de ideación y prototipado.",Innovación de Procesos,Híbrido,30,2025-08-15,22,4300
+PSTEMP005,Analista de mercado para startups,"Validación de mercado, encuestas y posicionamiento.",Investigación de Mercado,Remoto,30,2025-08-20,20,4100
+PSTEMP006,Coordinador de bootcamp emprendedor,"Planificación de cursos, logística y seguimiento a emprendedores.",Educación y Capacitación,Presencial,40,2025-09-01,24,4400
+PSTEMP007,Product manager para MVPs,"Gestión de desarrollo y lanzamiento de productos mínimos viables.",Product Management,Híbrido,35,2025-08-12,20,4500
+PSTEMP008,Especialista en innovación social (B Corp),"Diseño de soluciones sostenibles con impacto social.",Innovación Sostenible,Remoto,30,2025-08-18,20,4200
+PSTEMP009,Community manager de startup tech,"Creación de contenidos y gestión de comunidad emprendedora.",Marketing Digital,Remoto,25,2025-08-22,18,3900
+PSTEMP010,Analista de financiamiento de innovación,"Vinculación con fondos, elaboración de propuestas de innovación.",Financiamiento de Startups,Remoto,30,2025-08-08,22,4300
+PSTMED001,Médico General en hospital público,"Atención ambulatoria y emergencias en hospital nivel II.",Medicina General,Presencial,40,2025-08-01,24,5200
+PSTMED002,Médico Especialista en Pediatría,"Atención especializada a menores en hospital regional.",Pediatría,Presencial,40,2025-08-15,24,10000
+PSTMED003,Médico Ocupacional en empresa,"Chequeos médicos y control de riesgos laborales.",Salud Ocupacional,Presencial,40,2025-08-05,24,8000
+PSTMED004,Coordinador de estudios clínicos,"Implementación de ensayos y reclutamiento de pacientes.",Investigación Clínica,Híbrido,30,2025-08-20,24,6000
+PSTMED005,Medico de Familia en centro comunitario,"Seguimiento de pacientes, prevención y salud familiar.",Medicina Familiar,Presencial,40,2025-09-01,24,7500
+PSTMED006,Residente en Neurología,"Atención de consultas, seguimiento y procedimientos médicos.",Neurología,Presencial,20,2025-08-12,24,7300
+PSTMED007,Doctor en Telemedicina,"Consulta médica remota y telemonitoreo de pacientes crónicos.",Telemedicina,Remoto,30,2025-08-18,24,6000
+PSTMED008,Investigador epidemiológico,"Análisis de datos de salud pública y brotes sanitarios.",Epidemiología,Remoto,30,2025-08-22,24,5500
+PSTMED009,Médico Endocrinólogo en clínica,"Diagnóstico y tratamiento de enfermedades hormonales.",Endocrinología,Presencial,20,2025-08-08,24,7000
+PSTMED010,Médico Urólogo en clínica,"Procedimientos, diagnósticos y seguimiento de pacientes.",Urología,Presencial,20,2025-08-10,24,7500
+PSTODO001,Dentista general en clínica privada,"Atención de pacientes, limpiezas, obturaciones y emergencias.",Odontología General,Presencial,40,2025-08-01,24,3500
+PSTODO002,Ortodontista asistente,"Soporte en colocación y seguimiento de ortodoncias.",Ortodoncia,Presencial,30,2025-08-15,24,4500
+PSTODO003,Pediatra dental,"Atención odontológica especializada a niños.",Odontopediatría,Presencial,30,2025-08-05,24,4000
+PSTODO004,Higienista dental avanzado,"Tratamientos de higiene, pulido y control periodontal.",Periodoncia,Presencial,40,2025-08-20,24,3000
+PSTODO005,Coordinador de clínica dental,"Gestión de agendas, atención al cliente y compras.",Administración Odontológica,Presencial,40,2025-08-25,24,3200
+PSTODO006,Odontólogo restaurador,"Tratamientos de coronas, carillas y restauraciones estéticas.",Odontología Restauradora,Presencial,30,2025-09-01,24,4200
+PSTODO007,Endodoncista junior,"Tratamiento de conductos bajo supervisión en clínica especializada.",Endodoncia,Presencial,30,2025-08-12,24,4800
+PSTODO008,Odontólogo en salud pública,"Campañas de salud bucal y atención comunitaria.",Promoción de Salud Dental,Presencial,40,2025-08-18,24,2800
+PSTODO009,Dentista especializado en periodoncia,"Tratamientos de encías y tejido de soporte dental.",Periodoncia,Presencial,30,2025-08-22,24,5000
+PSTODO010,Odontólogo en clínica estética,"Rehabilitación oral con prótesis y estética dental.",Estética Dental,Presencial,30,2025-08-10,24,4800
+PSTENF001,Enfermero General Hospitalario,"Atención general, emergencias y curaciones en hospital público.",Enfermería General,Presencial,40,2025-08-01,24,2493
+PSTENF002,Enfermero Ocupacional,"Evaluación y prevención de riesgos de salud laboral en empresa.",Salud Ocupacional,Presencial,40,2025-08-15,24,2652
+PSTENF003,Enfermero de UCI,"Monitoreo y soporte de pacientes críticos en unidad de cuidados intensivos.",Cuidados Críticos,Presencial,40,2025-08-10,24,3800
+PSTENF004,Enfermero de Trozas (Cama adentro),"Cuidado domiciliario, monitoreo y apoyo en movilidad.",Enfermería Domiciliaria,Presencial,48,2025-08-05,24,2000
+PSTENF005,Supervisor de Enfermería,"Coordinación de turnos y equipo de enfermeros en clínica privada.",Gestión de Enfermería,Presencial,40,2025-08-20,24,3500
+PSTENF006,Enfermero Quirúrgico Asistente,"Soporte en procedimientos y protocolo en quirófano.",Quirófano,Presencial,40,2025-09-01,24,3000
+PSTENF007,Coordinador de Vacunación COVID,"Planificación y ejecución de jornadas de vacunación masiva.",Salud Pública,Presencial,40,2025-08-12,16,2800
+PSTENF008,Enfermero de UCI Pediátrica,"Atención especializada a pacientes pediátricos en UCI.",Cuidados Críticos Pediátricos,Presencial,40,2025-08-18,24,4000
+PSTENF009,Enfermero de Emergencias,"Atención de urgencias en clínica con protocolo de triage.",Emergencias,Presencial,40,2025-08-22,24,3200
+PSTENF010,Enfermero en Salud Comunitaria,"Campañas de promoción de salud y monitoreo en comunidades.",Salud Comunitaria,Presencial,30,2025-08-08,24,2500
+PSTTM001,Tecnólogo en Anatomía Patológica,"Procesamiento de biopsias y preparación de muestras.",Laboratorio Clínico,Presencial,40,2025-08-01,24,1200
+PSTTM002,Tecnólogo de Laboratorio Clínico,"Análisis hematológicos y bioquímicos en clínica privada.",Laboratorio Clínico,Presencial,40,2025-08-10,24,2300
+PSTTM003,Tecnólogo Médico Radiólogo,"Realización de rayos X y mamografías en centro diagnóstico.",Imagenología,Presencial,40,2025-08-05,24,2000
+PSTTM004,Tecnólogo en Salud Ocupacional,"Evaluación de riesgo físico y exámenes médicos en empresa.",Salud Ocupacional,Presencial,40,2025-08-15,24,2000
+PSTTM005,Tecnólogo en Urgencias Hospitalarias,"Registro y toma de muestras en área de emergencia.",Emergencia,Presencial,40,2025-08-20,24,1800
+PSTTM006,Tecnólogo en Terapia Física,"Apoyo en evaluación y recuperación bajo supervisión.",Terapia Física y Rehabilitación,Presencial,40,2025-09-01,24,1500
+PSTTM007,Tecnólogo en Terapia de Lenguaje,"Intervención y valoración de trastornos del habla.",Terapia de Lenguaje,Presencial,40,2025-08-12,24,1800
+PSTTM008,Tecnólogo en Banco de Sangre,"Manejo y distribución de componentes sanguíneos.",Banco de Sangre,Presencial,40,2025-08-18,24,2000
+PSTTM009,Tecnólogo en Hematología,"Realización de pruebas y conteo de sangre en laboratorio.",Hematología,Presencial,40,2025-08-22,24,2300
+PSTTM010,Tecnólogo en Optometría,"Examen visual y gradación de lentes en clínica oftalmológica.",Optometría,Presencial,40,2025-08-08,24,2000
+PSTTF001,Fisioterapeuta en Clínica de Rehabilitación,"Evaluación y tratamiento de pacientes neuromusculares.",Rehabilitación Médica,Presencial,40,2025-08-01,24,1800
+PSTTF002,Especialista en Fisioterapia Deportiva,"Rehabilitación de lesiones deportivas y prevención.",Fisioterapia Deportiva,Presencial,40,2025-08-15,24,2200
+PSTTF003,Fisioterapeuta Domiciliario,"Atención a pacientes en casa con movilidad reducida.",Rehabilitación Domiciliaria,Presencial,40,2025-08-05,24,1800
+PSTTF004,Fisioterapeuta Pediátrico,"Atención de niños con necesidades especiales de movilidad.",Fisioterapia Pediátrica,Presencial,40,2025-08-20,24,2000
+PSTTF005,Coordinador de Terapia Física,"Gestión de agendas y equipo de terapeutas en centro.",Gestión de Rehabilitación,Presencial,40,2025-09-01,24,2300
+PSTTF006,Terapeuta Físico en Hospital General,"Apoyo en UCI, traumatología y neurología.",Rehabilitación Hospitalaria,Presencial,40,2025-08-12,24,2000
+PSTTF007,Especialista en Fisioterapia Respiratoria,"Tratamientos para pacientes post-COVID y asmáticos.",Fisioterapia Respiratoria,Presencial,40,2025-08-18,24,2100
+PSTTF008,Fisioterapeuta Ortopédico,"Rehabilitación post-operatoria de ortopedia.",Fisioterapia Ortopédica,Presencial,40,2025-08-22,24,2200
+PSTTF009,Terapeuta en Unidad de Cuidado Crítico,"Apoyo rehabilitador en UCI adultos.",Cuidado Crítico,Presencial,40,2025-08-08,24,2400
+PSTTF010,Especialista en Fisioterapia Neurológica,"Tratamiento de pacientes con daño neurológico.",Fisioterapia Neurológica,Presencial,40,2025-08-25,24,2300
+PSTPSI001,Psicólogo Clínico Hospitalario,"Atención de pacientes con trastornos mentales en hospital público.",Psicología Clínica,Presencial,40,2025-08-01,24,5000
+PSTPSI002,Psicólogo Organizacional,"Aplicación de pruebas, clima y bienestar en empresas.",Psicología Organizacional,Presencial,40,2025-08-15,24,6500
+PSTPSI003,Psicólogo Educativo en colegio privado,"Atención psicológica y acompañamiento al estudiante.",Educación,Presencial,40,2025-08-05,24,4000
+PSTPSI004,Psicólogo Forense,"Aplicación de peritajes y evaluaciones en el sistema judicial.",Psicología Forense,Presencial,40,2025-08-20,24,6000
+PSTPSI005,Psicólogo en ONG de salud mental,"Intervención grupal y comunitaria en salud mental.",Psicología Social,Remoto,30,2025-09-01,24,4500
+PSTPSI006,Consultor en bienestar laboral,"Programas de manejo de estrés y productividad.",Psicología Organizacional,Híbrido,35,2025-08-12,24,7000
+PSTPSI007,Psicoterapeuta Couple&Family,"Terapia de pareja y familiar en consultorio privado.",Psicoterapia,Presencial,20,2025-08-18,24,5500
+PSTPSI008,Psicólogo en teleconsulta,"Atención psicológica remota de pacientes adultos.",Telepsicología,Remoto,30,2025-08-22,24,4800
+PSTPSI009,Psicólogo Deportivo,"Mejora del rendimiento mental en atletas profesionales.",Psicología del Deporte,Presencial,30,2025-08-08,24,5200
+PSTPSI010,Psicólogo en Educación Especial,"Apoyo a estudiantes con necesidades educativas especiales.",Psicología Educativa,Presencial,40,2025-08-10,24,4300
+PSTNUT001,Nutricionista Clínico,"Evaluación nutricional y planes terapéuticos en clínica.",Nutrición Clínica,Presencial,40,2025-08-01,24,2500
+PSTNUT002,Nutricionista Deportivo,"Asesoría personalizada en alimentación deportiva.",Nutrición Deportiva,Presencial,40,2025-08-15,24,3500
+PSTNUT003,Nutricionista en salud pública,"Programas comunitarios de educación alimentaria.",Salud Pública,Presencial,30,2025-08-05,24,2000
+PSTNUT004,Nutricionista Pediátrico,"Planes nutricionales para niños y adolescentes.",Nutrición Pediátrica,Presencial,40,2025-08-20,24,3000
+PSTNUT005,Nutricionista en industria alimentaria,"Control de calidad y formulación de productos.",Industria Alimentaria,Remoto,35,2025-09-01,24,3200
+PSTNUT006,Nutricionista Geriátrico,"Atención nutricional a adultos mayores.",Nutrición Geriátrica,Presencial,40,2025-08-12,24,2800
+PSTNUT007,Consultor en alimentación institucional,"Diseño de menús escolares y empresariales.",Gestión Alimentaria,Híbrido,35,2025-08-18,24,3300
+PSTNUT008,Analista de educación nutricional,"Capacitación y seguimiento de hábitos alimentarios.",Educación Nutricional,Remoto,30,2025-08-22,24,2600
+PSTNUT009,Nutricionista en teleconsulta,"Asesoría remota en variedad de contextos.",TeleNutrición,Remoto,30,2025-08-08,24,2400
+PSTNUT010,Nutricionista Especializado en obesidad,"Tratamiento y seguimiento de pacientes con obesidad.",Nutrición Clínica,Presencial,40,2025-08-10,24,4000
+PSTOBS001,Obstetriz en hospital público,"Manejo de partos, controles pre y postnatal.",Obstetricia General,Presencial,40,2025-08-01,24,3000
+PSTOBS002,Obstetriz en clínica privada,"Atención a gestantes y cuidado fetal.",Obstetricia Clínica,Presencial,40,2025-08-15,24,3500
+PSTOBS003,Obstetriz en salud comunitaria,"Jornadas de salud reproductiva en campo.",Salud Comunitaria,Presencial,30,2025-08-05,24,2500
+PSTOBS004,Coordinadora de programa maternal,"Gestión de equipos y recursos en maternidad.",Gestión Maternal,Híbrido,35,2025-08-20,24,3200
+PSTOBS005,Obstetriz en telemedicina,"Atención prenatal remota y seguimiento gestacional.",TeleObstetricia,Remoto,30,2025-09-01,24,2600
+PSTOBS006,Educadora prenatal,"Clases preparto y apoyo emocional a futuras madres.",Educación Maternal,Presencial,20,2025-08-12,24,2400
+PSTOBS007,Obstetriz en UCI neonatal,"Cuidados críticos a recién nacidos en unidad especializada.",Neonatología,Presencial,40,2025-08-18,24,3800
+PSTOBS008,Obstetriz de viaje/domiciliaria,"Atención de partos y control prenatal a domicilio.",Obstetricia Domiciliaria,Presencial,40,2025-08-22,24,2800
+PSTOBS009,Analista de programas de salud reproductiva,"Evaluación de indicadores y campañas sociales.",Salud Pública,Remoto,30,2025-08-08,24,3000
+PSTOBS010,Obstetriz en ONG internacional,"Apoyo técnico en proyectos de salud materna.",Cooperación Internacional,Remoto,30,2025-08-10,24,3200
+VET001,Médico Veterinario Clínico,"Diagnóstico, evaluación, vacunación y cirugía menor de mascotas.",Clínica Veterinaria,Presencial,40,2025-08-01,24,3000
+VET002,Veterinario Radiólogo,"Realización e interpretación de radiografías en animales de compañía.",Diagnóstico por Imagen,Presencial,30,2025-08-10,24,3200
+VET003,Veterinario Cirujano,"Procedimientos quirúrgicos complejos y postoperatorio en clínica.",Cirugía Veterinaria,Presencial,40,2025-08-05,24,4000
+VET004,Veterinario Especialista en Animales de Producción,"Control sanitario y manejo en granjas.",Medicina de Producción,Presencial,40,2025-08-15,24,3500
+VET005,Veterinario de Fauna Silvestre,"Atención y rehabilitación de especies silvestres.",Conservación,Presencial,30,2025-09-01,24,3800
+VET006,Veterinario de Emergencias,"Atención de urgencias y traumas en clínica 24h.",Emergencias Veterinarias,Presencial,48,2025-08-12,24,3600
+VET007,Veterinario en Salud Pública,"Programas de zoonosis y vigilancia epidemiológica.",Salud Pública,Remoto,20,2025-08-18,24,2800
+VET008,Veterinario de Laboratorio,"Procesamiento de muestras y análisis microbiológico.",Laboratorio Clínico,Presencial,40,2025-08-22,24,3200
+VET009,Veterinario Oncólogo,"Tratamientos y seguimiento de pacientes con cáncer.",Oncología Veterinaria,Presencial,30,2025-08-08,24,5000
+VET010,Coordinador de Clínica Veterinaria,"Gestión de personal y operaciones clínicas.",Gestión Veterinaria,Presencial,40,2025-08-10,24,3500
+FARM001,Farmacéutico Clínico,"Ajuste de medicación y asesoría farmacoterapéutica en hospital.",Farmacia Hospitalaria,Presencial,40,2025-08-01,24,3500
+FARM002,Farmacéutico Industrial,"Control de calidad y producción en planta farmacéutica.",Industria,Presencial,40,2025-08-15,24,4000
+FARM003,Bioquímico de Laboratorio Clínico,"Análisis de sangre, orina y control bioquímico sanitario.",Laboratorio Clínico,Presencial,40,2025-08-05,24,3200
+FARM004,Regulador de Registro Sanitario,"Gestión de trámites y permisos de nuevos medicamentos.",Regulación Farmacéutica,Remoto,30,2025-08-20,24,3700
+FARM005,Analista de Microbiología Farmacéutica,"Pruebas de esterilidad y control microbiológico.",Microbiología,Presencial,40,2025-09-01,24,3600
+FARM006,Psicofarmacología Asistente,"Apoyo en investigación y ensayos clínicos de medicamentos psiquiátricos.",Investigación Clínica,Remoto,30,2025-08-12,24,3300
+FARM007,Especialista en Diagnóstico Molecular,"Administración de pruebas PCR y genética molecular.",Diagnóstico Molecular,Presencial,40,2025-08-18,24,3800
+FARM008,Consultor Técnico Farmacéutico,"Capacitación a personal y soporte a farmacias comunitarias.",Ventas Técnicas,Remoto,30,2025-08-22,24,3500
+FARM009,Auditor de Buenas Prácticas de Laboratorio,"Aseguramiento de normas GMP en laboratorios farmacéuticos.",Calidad y GMP,Híbrido,35,2025-08-08,24,4000
+FARM010,Bioquímico en Salud Pública," Vigilancia de enfermedades y análisis sanitarios.",Epidemiología,Remoto,30,2025-08-10,24,3400
+LAW001,Asesor Jurídico Corporativo,"Redacción de contratos y soporte legal a empresas.",Derecho Corporativo,Presencial,40,2025-08-01,24,4500
+LAW002,Abogado Litigante Civil,"Litigios, demandas y representaciones ante tribunales.",Litigio Civil,Presencial,40,2025-08-15,24,5000
+LAW003,Especialista en Derecho Laboral,"Gestión de conflictos y asesoría en relaciones laborales.",Derecho Laboral,Híbrido,35,2025-08-05,24,4800
+LAW004,Consultor en Compliance Penal,"Investigación interna y prevención de delitos corporativos.",Compliance,Remoto,30,2025-08-20,24,5500
+LAW005,Abogado Tributario,"Elaboración y presentación de declaraciones tributarias y asesoría.",Derecho Tributario,Presencial,40,2025-09-01,24,5000
+LAW006,Defensor Público,"Asistencia legal gratuita a particulares con escasos recursos.",Derecho Público,Presencial,40,2025-08-12,4000
+LAW007,Abogado en Propiedad Intelectual,"Registro de marcas, patentes y protección de derechos.",Propiedad Intelectual,Remoto,30,2025-08-18,24,5200
+LAW008,Consultor en Derecho Ambiental,"Asesoría y auditorías en temas de impacto ambiental.",Derecho Ambiental,Híbrido,35,2025-08-22,24,4800
+LAW009,Abogado de Contrataciones Públicas,"Elaboración y defensa de bases y procesos en licitaciones.",Contrataciones Públicas,Presencial,40,2025-08-08,24,5300
+LAW010,Abogado Penalista Junior,"Atención de procesos penales y presentación de casos en fiscalía.",Derecho Penal,Presencial,40,2025-08-10,24,5000
+PSTCP001,Analista de Políticas Públicas,"Evaluación de impacto y estudio de normativas en sector público.",Política Pública,Remoto,35,2025-08-01,24,6000
+PSTCP002,Investigador Junior en Ciencias Políticas,"Apoyo en investigación sobre democracia e instituciones.",Investigación Académica,Remoto,30,2025-08-15,24,5000
+PSTCP003,Asesor en campañas electorales,"Análisis de contexto y estrategias de comunicación.",Comunicación Política,Presencial,40,2025-08-05,18,5500
+PSTCP004,Consultor en gobernanza local,"Apoyo en iniciativas de participación ciudadana.",Gobierno Local,Híbrido,35,2025-08-20,24,5800
+PSTCP005,Especialista en relaciones internacionales,"Monitoreo de políticas y alianzas internacionales.",Diplomacia,Remoto,30,2025-09-01,24,6200
+PSTCP006,Monitor electoral Estatal,"Supervisión de procesos electorales y auditoría de resultados.",Transparencia Electoral,Presencial,40,2025-08-12,16,5300
+PSTCP007,Analista de gabinete ministerial,"Elaboración de informes y seguimiento de agendas de políticas.",Sector Público,Presencial,40,2025-08-18,24,6500
+PSTCP008,Coordinador de proyectos de incidencia,"Gestión de ONG e iniciativas de cambio social.",ONG y Sociedad Civil,Híbrido,35,2025-08-22,24,5600
+PSTCP009,Evaluador de programas públicos,"Medición de resultados y eficiencia de políticas sociales.",Evaluación de Programas,Remoto,30,2025-08-08,24,6000
+PSTCP010,Consultor en reforma institucional,"Diagnóstico y asesoría para modernización pública.",Reforma del Estado,Remoto,30,2025-08-10,24,6200
+PSTSOC001,Especialista en gestión social,"Elaboración de estudios de impacto y gestión comunitaria.",Gestión Social,Presencial,40,2025-08-01,24,10000
+PSTSOC002,Analista en gestión cultural,"Desarrollo de proyectos culturales en MINCultura.",Cultura,Presencial,40,2025-08-15,24,4264
+PSTSOC003,Coordinador de proyectos regionales,"Gestiona programas sociales en gobiernos regionales.",Gestión Regional,Presencial,40,2025-08-05,24,6000
+PSTSOC004,Supervisor de relaciones comunitarias,"En industria extractiva, atención a comunidades locales.",Responsabilidad Social,Presencial,40,2025-08-20,24,4000
+PSTSOC005,Investigador social junior,"Apoya en recolección fotográfica y análisis en región.",Investigación Social,Presencial,40,2025-09-01,18,1500
+PSTSOC006,Especialista en interventoría social,"Auditoría de proyectos con enfoque comunitario.",Consultoría Social,Remoto,30,2025-08-12,5500
+PSTSOC007,Promotor social regional,"Implementación de programas sociales en zonas rurales.",Desarrollo Comunitario,Presencial,40,2025-08-18,24,2264
+PSTSOC008,Analista de inclusión social,"Apoyo en estrategias para inclusión de grupos vulnerables.",Inclusión Social,Híbrido,35,2025-08-22,24,3000
+PSTSOC009,Coordinador de diálogo intercultural,"Intermediación entre Estado y comunidades indígenas.",Interculturalidad,Presencial,40,2025-08-08,24,3264
+PSTSOC010,Consultor en políticas sociales,"Asesoría a ministerios en diseño de políticas públicas.",Sector Público,Remoto,30,2025-08-10,24,5000
+PSTHIS001,Técnico en gestión archivística,"Administración de archivos y documentación.",Archivo,Presencial,40,2025-08-01,24,3000
+PSTHIS002,Jefe de archivo central,"Responsable de organización y custodia documental.",Archivo Central,Presencial,40,2025-08-15,24,15600
+PSTHIS003,Asistente de gestión documental,"Apoyo en control y acceso de documentos.",Archivo,Presencial,40,2025-08-05,24,5000
+PSTHIS004,Historiador investigador,"Elaboración de estudios históricos para centros culturales.",Investigación Histórica,Remoto,30,2025-08-20,24,3500
+PSTHIS005,Curador de patrimonio,"Gestión de colecciones y museos patrimoniales.",Patrimonio Cultural,Presencial,40,2025-09-01,24,4500
+PSTHIS006,Académico universitario en Historia,"Docencia e investigación en educación superior.",Educación Superior,Remoto,20,2025-08-12,24,5000
+PSTHIS007,Editor de publicaciones históricas,"Edición y revisión de libros y revistas académicas.",Publicación Editorial,Remoto,30,2025-08-18,24,4000
+PSTHIS008,Historiador para medios,"Creación de contenido para documentales y medios.",Comunicación Histórica,Presencial,30,2025-08-22,24,3800
+PSTHIS009,Consultor en historia oral,"Recopilación y registro de testimonios históricos.",Investigación Social,Presencial,40,2025-08-08,24,3600
+PSTHIS010,Especialista en archivística digital,"Digitalización y base de datos para documentos históricos.",Tecnología y Archivo,Remoto,30,2025-08-10,24,4200
+PSTFIL001,Docente universitario de filosofía,"Dictado de cursos de filosofía, epistemología y ética.",Docencia Universitaria,Presencial,40,2025-08-01,12,4500
+PSTFIL002,Profesor de preuniversitario en filosofía,"Elaboración de material y clases para ingreso a universidad.",Docencia Preuniversitaria,Presencial,40,2025-08-15,10,2500
+PSTFIL003,Consultor en ética empresarial,"Asesoría en implementación de políticas éticas corporativas.",Ética Corporativa,Remoto,30,2025-08-05,20,4000
+PSTFIL004,Especialista en filosofía aplicada,"Desarrollo de talleres sobre pensamiento crítico y argumentación.",Educación Continua,Remoto,20,2025-08-20,16,3800
+PSTFIL005,Coordinador de proyectos culturales,"Gestión de eventos culturales en museos o centros de arte.",Cultura,Presencial,30,2025-09-01,12,3500
+PSTFIL006,Editor de contenidos filosóficos,"Redacción y edición de textos para medios digitales y editoriales.",Publicación,Remoto,30,2025-08-12,24,3300
+PSTFIL007,Analista de pensamiento estratégico,"Aplicación de metodologías de pensamiento crítico en consultorías.",Consultoría Estratégica,Remoto,35,2025-08-18,20,4200
+PSTFIL008,Facilitador de clubes de lectura filosófica,"Moderación y gestión de comunidades lectoras.",Educación Informal,Presencial,15,2025-08-22,18,2300
+PSTFIL009,Investigador en filosofía política,"Análisis y publicación de estudios sobre teoría política.",Investigación,Remoto,30,2025-08-08,24,4800
+PSTFIL010,Desarrollador de cursos online de filosofía,"Creación de contenido pedagógico multimedia.",E-learning,Remoto,25,2025-08-10,20,3700
+PSTTS001,Trabajador/a Social Corporativo,"Programas de bienestar y asistencia social para colaboradores.",Bienestar Laboral,Presencial,40,2025-08-01,24,3000
+PSTTS002,Especialista en proyectos sociales,"Gestión de programas comunitarios en ONG o sector público.",Gestión de Proyectos Sociales,Híbrido,35,2025-08-15,24,4500
+PSTTS003,Promotor(a) Social en minería,"Relaciones comunitarias y monitoreo de impactos en faenas.",Responsabilidad Social,Presencial,40,2025-08-05,24,4000
+PSTTS004,Trabajador/a Social en salud,"Atención y contención emocional de pacientes y familias.",Salud Pública,Presencial,40,2025-08-20,24,3200
+PSTTS005,Asistente de vivienda social,"Apoyo en implementación de proyectos de vivienda y asistencia.",Vivienda Social,Presencial,40,2025-09-01,24,3100
+PSTTS006,Gestor/a educativo social,"Programas de apoyo familiar y escolar en instituciones.",Educación Comunitaria,Híbrido,35,2025-08-12,24,3300
+PSTTS007,Coordinador/a de bienestar hospitalario,"Supervisión de atención psicosocial en clínicas.",Bienestar en Salud,Presencial,40,2025-08-18,24,3400
+PSTTS008,Mediador/a comunitario,"Resolución de conflictos y diálogo entre comunidades.",Mediación Social, Presencial,40,2025-08-22,24,3500
+PSTTS009,Analista de políticas sociales,"Evaluación de programas públicos desde enfoque social.",Políticas Sociales,Remoto,30,2025-08-08,24,3600
+PSTTS010,Supervisor/a de intervención social,"Control de calidad en proyectos de servicios sociales.",Evaluación Social,Presencial,40,2025-08-10,24,3700
+PSTANT001,Relacionista Comunitario Minero,"Dialogo con comunidades locales y supervisión de impacto social.",Relaciones Comunitarias,Presencial,40,2025-08-01,24,4000
+PSTANT002,Consultor UX Research,"Investigación cualitativa para mejora de productos digitales.",Investigación de Usuario,Remoto,35,2025-08-15,18,4500
+PSTANT003,Especialista en Consulta Previa,"Facilitación y mediación con pueblos indígenas.",Derechos Indígenas,Presencial,40,2025-08-05,24,4800
+PSTANT004,Antropólogo en desarrollo rural,"Proyectos de desarrollo y evaluación comunitaria.",Desarrollo Rural,Híbrido,35,2025-08-20,24,4300
+PSTANT005,Investigador de cultura urbana,"Estudios de espacios y prácticas urbanas para instituciones.",Investigación Social,Remoto,30,2025-09-01,24,3900
+PSTANT006,Coordinador de patrimonio cultural,"Gestión de prácticas y espacio cultural ancestral.",Patrimonio Cultural,Presencial,40,2025-08-12,24,4200
+PSTANT007,Analista de diversidad étnica,"Estudios y políticas de inclusión en empresas y Estado.",Diversidad e Inclusión,Remoto,30,2025-08-18,24,4400
+PSTANT008,Antropólogo salud pública,"Investigación y diseño de campañas sanitarias comunitarias.",Salud Comunitaria,Remoto,30,2025-08-22,24,4100
+PSTANT009,Especialista en género y sociedad,"Evaluación de proyectos con enfoque de género.",Género e Interseccionalidad,Híbrido,35,2025-08-08,24,4300
+PSTANT010,Consultor en antropología digital,"Estudios culturales en redes sociales y consumo mediático.",Antropología Digital,Remoto,25,2025-08-10,24,4000
+PSTRIN001,Analista de Cooperación Internacional,"Gestión de proyectos y relaciones con organismos multilaterales.",Cooperación,Remoto,35,2025-08-01,24,6000
+PSTRIN002,Especialista en Comercio Exterior,"Negociación de acuerdos y análisis de mercados internacionales.",Comercio Exterior,Híbrido,40,2025-08-10,24,5500
+PSTRIN003,Gestor de Proyectos de Desarrollo,"Direccion y seguimiento de proyectos internacionales.",Desarrollo Internacional,Presencial,40,2025-08-05,24,5800
+PSTRIN004,Asesor de Políticas Internacionales,"Elaboración de informes y análisis de contexto global.",Política Internacional,Remoto,30,2025-08-15,20,6200
+PSTRIN005,Consultor en Relaciones Diplomáticas,"Apoyo en eventos diplomáticos y redacción de comunicaciones.",Diplomacia,Presencial,40,2025-09-01,24,6500
+PSTRIN006,Analista de Riesgo País,"Monitoreo de indicadores políticos y económicos para inversión.",Inteligencia Geopolítica,Remoto,35,2025-08-12,24,6000
+PSTRIN007,Coordinador de Alianzas Estratégicas,"Generación de alianzas en organismos y ONGs.",Asociaciones Internacionales,Híbrido,35,2025-08-20,24,5700
+PSTRIN008,Especialista en Asuntos Migratorios,"Asesoría jurídica y social a migrantes.",Migración y Refugio,Presencial,40,2025-08-22,24,5800
+PSTRIN009,Responsable de Proyectos Climate Finance lia,"Coordinación de fondos climáticos en cooperación.",Finanzas Climáticas,Remoto,30,2025-08-18,24,6000
+PSTRIN010,Analista de Seguridad Internacional,"Prevención de conflictos y análisis de seguridad global.",Seguridad Internacional,Remoto,30,2025-08-08,24,6300
+PSTCRI001,Criminólogo en Policía Técnica,"Análisis de escenas de crimen y elaboración de informes.",Investigación Forense,Presencial,40,2025-08-01,24,1700
+PSTCRI002,Analista Forense Junior,"Procesamiento de evidencias digitales y escritos.",Perfiles Forenses,Presencial,40,2025-08-15,24,2000
+PSTCRI003,Criminólogo Privado,"Investigación de fraudes y delitos corporativos.",Seguridad Privada,Híbrido,35,2025-08-10,24,2500
+PSTCRI004,Especialista en Victimología,"Atención y diagnóstico de víctimas de delitos.",Atención a Víctimas,Presencial,40,2025-09-01,24,2200
+PSTCRI005,Investigador de Crimen Organizado,"Análisis de redes delictivas para entidades públicas.",Seguridad Nacional,Remoto,30,2025-08-20,24,3000
+PSTCRI006,Consultor en Criminología Preventiva,"Diseño de políticas y programas de prevención.",Prevención del Delito,Remoto,30,2025-08-25,24,2800
+PSTCRI007,Perfilador Criminal Junior,"Apoyo en elaboración de perfiles psicológicos criminales.",Perfilado Forense,Presencial,40,2025-08-18,24,2400
+PSTCRI008,Analista en Criminología Digital,"Investigación de delitos cibernéticos y fraudes online.",Cibercrimen,Híbrido,35,2025-08-22,24,2700
+PSTCRI009,Investigador Privado Senior,"Resolución de casos complejos para firmas privadas.",Investigación Privada,Presencial,40,2025-08-12,24,3500
+PSTCRI010,Coordinador de Criminología,"Gestión de proyectos e investigación en instituciones.",Gestión Criminológica,Presencial,40,2025-08-08,24,3200
+PSTCOM001,Comunicador Social Junior,"Atención de prensa y redacción de comunicados.",Relaciones Públicas,Presencial,40,2025-08-01,24,1500
+PSTCOM002,Especialista en Social Media,"Gestión de redes, campañas y contenidos digitales.",Marketing Digital,Remoto,35,2025-08-10,24,1800
+PSTCOM003,Periodista de Redacción,"Producción de contenidos para medios escritos.",Periodismo,Presencial,40,2025-08-05,24,2000
+PSTCOM004,Productor Audiovisual,"Grabación y edición de video para plataformas.",Audiovisual,Híbrido,35,2025-08-20,24,2500
+PSTCOM005,Relaciones Públicas Corporativas,"Gestión de imagen y eventos empresariales.",RR.PP.,Presencial,40,2025-09-01,24,3000
+PSTCOM006,Analista de Comunicación Interna,"Generación de boletines y gestión cultural interna.",Comunicación Interna,Remoto,30,2025-08-12,24,2200
+PSTCOM007,Community Manager Senior,"Gestión de comunidad y campañas en redes sociales.",Community Management,Remoto,30,2025-08-18,24,2500
+PSTCOM008,Coordinador de Eventos,"Planificación de conferencias y eventos corporativos.",Eventos,Presencial,40,2025-08-22,24,2800
+PSTCOM009,Consultor en Comunicación de Crisis,"Diseño de planes y protocolos de contingencia.",Comunicación Estratégica,Remoto,30,2025-08-08,24,3200
+PSTCOM010,Editor de Contenido Digital,"Producción y edición para plataformas online.",Content Editing,Remoto,30,2025-08-10,24,2300
+ARC001,Arquitecto Junior de Proyecto,"Elaboración de planos y seguimiento de obra en estudio.",Diseño y Proyecto,Presencial,40,2025-08-01,24,1900
+ARC002,Coordinador BIM,"Modelado BIM y coordinación multidisciplinaria con Revit.",Tecnología BIM,Híbrido,35,2025-08-10,24,2800
+ARC003,Arquitecto de Interiores,"Propuesta de diseño espacial y selección de acabados.",Diseño de Interiores,Presencial,40,2025-08-05,24,2500
+ARC004,Supervisor de Obra,"Control y supervisión de obra en ejecución civil.",Dirección de Obra,Presencial,45,2025-08-20,24,3200
+ARC005,Arquitecto Sustentable,"Implementación de criterios sostenibles en diseño.",Arquitectura Sostenible,Remoto,30,2025-09-01,24,2600
+ARC006,Proyectista CAD,"Generación de planos constructivos con AutoCAD.",Dibujo Técnico,Remoto,30,2025-08-12,24,2000
+ARC007,Arquitecto Comercial,"Diseño de espacios comerciales y coordinación con marca.",Retail Design,Híbrido,40,2025-08-18,24,3000
+ARC008,Director de Proyecto Arquitectónico,"Gestión integral de proyectos y relación con clientes.",Gestión de Proyectos,Presencial,40,2025-08-22,24,3500
+ARC009,Investigador de Urbanismo,"Estudios urbanos y elaboración de propuestas de ciudad.",Urbanismo,Remoto,35,2025-08-08,24,3200
+ARC010,Arquitecto Coordinador de Licencias,"Tramitación de licencias y permisos municipales.",Gestión Municipal,Presencial,40,2025-08-10,24,2300
+DG001,Diseñador Gráfico Junior,"Creación de piezas digitales y soporte de marca.",Diseño Gráfico,Remoto,40,2025-08-01,24,1300
+DG002,Motion Graphics Designer,"Animación 2D/3D para redes y contenido multimedia.",Producción Audiovisual,Híbrido,35,2025-08-10,24,1800
+DG003,Diseñador UX/UI,"Diseño de interfaces con enfoque en experiencia de usuario.",Diseño Digital,Remoto,30,2025-08-05,24,2200
+DG004,Ilustrador Digital,"Proyectos de ilustración para editorial y publicidad.",Ilustración,Remoto,25,2025-08-20,24,1600
+DG005,Diseñador Senior de Marca,"Creación y gestión de identidad visual integral.",Branding,Presencial,40,2025-09-01,24,2300
+DG006,Director de Arte Jr.,"Coordinación de piezas gráficas y campañas publicitarias.",Dirección de Arte,Híbrido,35,2025-08-12,24,2000
+DG007,Especialista en Packaging,"Diseño de envases con criterios funcionales y estéticos.",Packaging,Presencial,40,2025-08-18,24,2100
+DG008,Editor de Contenido para Redes,"Creación y edición gráfica y audiovisual.",Social Media,Remoto,30,2025-08-22,24,1700
+DG009,UX Researcher Jr.,"Investigación de usuario y diseño centrado en usuario.",UX Research,Remoto,30,2025-08-08,24,2100
+DG010,Product Designer,"Conceptualización y diseño para productos digitales.",Product Design,Remoto,35,2025-08-10,24,2200
+DI001,Diseñador de Interiores Junior,"Conceptualización y diseño de planos de interiorismo.",Diseño de Interiores,Presencial,40,2025-08-01,24,1300
+DI002,Stager de Viviendas,"Preparación estética de inmuebles para venta o alquiler.",Home Staging,Híbrido,30,2025-08-10,18,1500
+DI003,Coordinador de Proyecto de Decoración,"Gestión de compras y supervisión de obras.",Proyecto de Decoración,Presencial,40,2025-08-05,24,1800
+DI004,Renderista 3D,"Modelado y visualización fotorealista de espacios.",Visualización 3D,Remoto,30,2025-08-20,24,1600
+DI005,Consultor de Habitabilidad,"Asesoría en funcionalidad y distribución de espacios.",Consultoría Interiorismo,Remoto,30,2025-09-01,24,1700
+DI006,Supervisor de Obra de Interiores,"Monitoreo de ejecución de mobiliario interior.",Supervisión de Interiores,Presencial,45,2025-08-12,24,2000
+DI007,Diseñador comercial Retail,"Diseño de espacios comerciales con experiencia POS.",Retail Design,Presencial,40,2025-08-18,24,1900
+DI008,Especialista en iluminación interior,"Diseño de conceptos lumínicos para ambientes.",Lighting Design,Híbrido,35,2025-08-22,24,2100
+DI009,Diseñador de Oficinas Corporativas,"Optimización de layouts para espacios de trabajo.",Oficinas,Presencial,40,2025-08-08,24,2000
+DI010,Desarrollador de propuesta de showroom,"Espacios de exhibición y branding presencial.",Showroom Design,Presencial,40,2025-08-10,24,2200
+DI001,Diseñador Industrial Junior,"Conceptualización de productos y modelado CAD.",Diseño de Producto,Remoto,40,2025-08-01,24,2000
+DI002,Diseñador de Envases,"Diseño y prototipado de envases funcionales y atractivos.",Packaging,Presencial,40,2025-08-10,24,2200
+DI003,Diseñador de Mobiliario,"Creación de muebles ergonómicos y producción de prototipos.",Diseño de Muebles,Presencial,40,2025-08-05,24,2500
+DI004,Coordinador de Producción,"Supervisión de procesos de fabricación industrial.",Producción,Presencial,45,2025-08-20,24,3000
+DI005,Diseñador CAD/CAM,"Generación de planos y programación CNC para producción.",Tecnología de Producción,Remoto,30,2025-08-12,24,2200
+DI006,Especialista en Ergonomía,"Análisis y optimización ergonómica de productos.",Ergonomía,Remoto,35,2025-08-18,24,2600
+DI007,Illustrator 3D para producto,"Visualización de productos en 3D para marketing.",Visualización 3D,Remoto,30,2025-08-22,24,2400
+DI008,Consultor de Innovación de Producto,"Diseño y mejora de líneas de productos existentes.",Innovación,Remoto,30,2025-08-08,24,2800
+DI009,Diseñador Senior de Producto,"Gestión integral de desarrollo desde concepto hasta producción.",Dirección de Diseño,Presencial,40,2025-08-10,24,3500
+DI010,Diseñador Industrial Senior,"Responsable de portafolio y desarrollo estratégico.",Liderazgo de Diseño,Presencial,40,2025-09-01,24,4000
+BA001,Especialista en Promoción Cultural,"Diseño e implementación de proyectos visuales.",Promoción Cultural,Presencial,40,2025-08-01,24,3000
+BA002,Coordinador de Talleres Artísticos,"Desarrollo y ejecución de talleres en museo.",Educación Artística,Presencial,35,2025-08-10,24,2800
+BA003,Curador de Arte Contemporáneo,"Selección y montaje de exhibiciones.",Curaduría,Presencial,40,2025-08-05,24,3500
+BA004,Docente Pregrado Bellas Artes,"Imparte clases de técnicas artísticas en educación superior.",Docencia Universitaria,Presencial,40,2025-08-20,24,4000
+BA005,Gestor de Eventos Culturales,"Organización de ferias y exposiciones artísticas.",Eventos Culturales,Híbrido,35,2025-09-01,24,3200
+BA006,Técnico de Montaje Museográfico,"Instalación de obras y adaptación de espacios museográficos.",Montaje,Presencial,40,2025-08-12,24,2500
+BA007,Promotor de Arte Regional,"Fomento y visibilidad de artistas locales.",Cultura Local,Presencial,40,2025-08-18,24,2900
+BA008,Editor de Publicaciones Artísticas,"Producción editorial de catálogos y revistas de arte.",Publicación Cultural,Remoto,30,2025-08-22,24,2700
+BA009,Asistente de Producción Audiovisual,"Apoyo en video/artes visuales en museos.",Producción ARTv,Híbrido,35,2025-08-08,24,2600
+BA010,Consultor en Gestión Cultural,"Asesoraría en políticas y proyectos culturales.",Consultoría Cultural,Remoto,30,2025-08-10,24,3800
+FO001,Fotógrafo de Eventos,"Documentación visual de bodas y eventos corporativos.",Fotografía Eventos,Presencial,40,2025-08-01,24,1500
+FO002,Fotógrafo de Producto,"Producción de imágenes para e-commerce y catálogo.",Fotografía Comercial,Remoto,30,2025-08-10,24,1800
+FO003,Fotógrafo Retratista,"Sesiones profesionales en estudio con clientes.",Retratos,Presencial,30,2025-08-05,24,1600
+FO004,Fotógrafo de Moda,"Trabajo editorial y campaña de marcas, con estilista.",Fotografía de Moda,Presencial,30,2025-08-20,24,2200
+FO005,Editor y Retocador,"Postproducción de imágenes para impresión y digital.",Postproducción,Remoto,30,2025-09-01,24,2000
+FO006,Asistente de Producción Fotográfica,"Soporte logístico en sesiones de moda y video.",Producción,Presencial (Cusco),40,2025-08-12,24,2800
+FO007,Fotógrafo de Paisaje/Viajes,"Captura para medios turísticos y destinos.",Fotografía de Naturaleza,Presencial,30,2025-08-18,24,1400
+FO008,Fotoperiodista,"Jornadas noticiosas y cobertura de eventos en medios.",Periodismo Gráfico,Presencial,40,2025-08-22,24,1600
+FO009,Fotógrafo Editorial,"Contenido visual para revistas, libros o catálogos.",Editorial,Remoto,30,2025-08-08,24,2100
+FO010,Fotógrafo Freelance Especializado,"Servicios por hora y proyectos personalizados.",Freelance,Presencial/Remoto,20,2025-08-10,24,2000
+ADR001,Docente de Actuación,"Impartición de clases en institución de artes escénicas.",Docencia Universitaria,Presencial,40,2025-08-01,12,3374
+ADR002,Actor Profesional de Teatro,"Participación en obras profesionales y funciones públicas.",Artes Escénicas,Presencial,40,2025-08-10,24,2500
+ADR003,Director Escénico,"Dirección artística y gestión de montajes teatrales.",Producción Escénica,Presencial,40,2025-08-05,24,5000
+ADR004,Productor Teatral,"Coordinación de logística y finanzas de producciones.",Producción Escénica,Presencial,40,2025-08-20,24,4000
+ADR005,Dramaturgo,"Escritura de guiones y obras para teatro contemporáneo.",Desarrollo Dramático,Remoto,30,2025-09-01,20,3000
+ADR006,Asistente de Producción Teatral,"Apoyo en logística y coordinación en funciones.",Producción Teatral,Presencial,40,2025-08-12,20,2000
+ADR007,Coordinador de Escuela de Arte Dramático,"Gestión académica y curricular de institución.",Gestión Educativa,Presencial,40,2025-08-18,24,3500
+ADR008,Especialista en teatro comunitario,"Diseño e implementación de talleres escénicos comunitarios.",Educación Cultural,Presencial,30,2025-08-22,20,2300
+ADR009,Director de Casa de la Cultura,"Curaduría y gestión de espacios escénicos.",Gestión Cultural,Presencial,40,2025-08-08,24,4500
+ADR010,Actor para producciones institucionales,"Participación en teatro corporativo o educativo.",Actuación Corporativa,Presencial,20,2025-08-10,12,1500
+CPA001,Productor Audiovisual Senior,"Planificación y producción de spots y campañas.",Producción Audiovisual,Presencial,40,2025-08-01,24,2500
+CPA002,Editor de Video Profesional,"Edición y postproducción para contenido digital.",Postproducción,Remoto,35,2025-08-10,24,2000
+CPA003,Realizador Audiovisual,"Grabación y edición de contenido multiplataforma.",Producción,Presencial,40,2025-08-05,24,2400
+CPA004,Asistente de Producción Audiovisual,"Apoyo logístico en proyectos audiovisuales.",Producción,Presencial,40,2025-08-20,24,1500
+CPA005,Content Creator Audiovisual,"Creación de contenidos para redes sociales.",Social Media,Remoto,30,2025-09-01,20,1800
+CPA006,Analista Audiovisual,"Evaluación de métricas y desempeño de contenido.",Análisis de Contenidos,Remoto,30,2025-08-12,24,2200
+CPA007,Post Productor,"Supervisión de calidad de video y postproducción.",Post‑producción,Remoto,35,2025-08-18,24,2600
+CPA008,Técnico Audiovisual,"Operación de cámaras, audio e iluminación en set.",Técnico de Set,Presencial,40,2025-08-22,24,1700
+CPA009,Guionista de Cortometrajes,"Desarrollo de guiones para cine y video cortometraje.",Escritura Creativa,Remoto,25,2025-08-08,20,2000
+CPA010,Productor de Documentales,"Coordinación integral de producción documental.",Producción,Presencial,40,2025-08-10,24,2300
+MUS001,Profesor de Música (Piano),"Clases particulares y grupales en academia.",Docencia Musical,Presencial,20,2025-08-01,24,1800
+MUS002,DJ Programador para Restobar,"Selección musical y ambientación en local.",Entretenimiento,Presencial,30,2025-08-15,24,1800
+MUS003,Operador de Contenido Musical,"Edición de audio y diseño sonoro para redes.",Producción de Contenido,Remoto,30,2025-08-05,24,1500
+MUS004,Asistente de Producción Musical,"Apoyo en logística y coordinación en estudio.",Producción Musical,Presencial,40,2025-08-20,24,1700
+MUS005,Profesor de Música Infantil,"Estimulación musical para niños pequeños.",Educación Musical,Presencial,20,2025-09-01,12,1500
+MUS006,Community Manager Musical,"Gestión de redes y contenido musical online.",Marketing Musical,Remoto,25,2025-08-12,24,1800
+MUS007,Músico en vivo para eventos corporativos,"Presentaciones en vivo para empresas.",Música en Vivo,Presencial,15,2025-08-18,12,2000
+MUS008,Técnico en Sonido,"Instalación y operación de sonido e iluminación.",Técnico de Sonido,Presencial,40,2025-08-22,24,2200
+MUS009,Profesor de Guitarra Clásica,"Clases a domicilio o en academias especializadas.",Docencia Instrumental,Presencial,20,2025-08-08,24,1600
+MUS010,Coordinador de Programas Musicales,"Planificación de cursos y talleres en institución.",Gestión Musical,Presencial,35,2025-08-10,24,3000
+DAN001,Profesora de Danza Primaria,"Dicta clases y evalúa desempeño en colegio.",Docencia Escolar,Presencial,40,2025-08-01,12,2200
+DAN002,Profesora de Danza - Folklore,"Enseña danzas típicas a estudiantes.",Docencia Escolar,Presencial,20,2025-08-10,12,700
+DAN003,Profesora de Danza YMCA,"Planifica y ejecuta lecciones curriculares.",Docencia Escolar,Presencial,32,2025-08-01,24,1050
+DAN004,Docente de Danza Clásica,"Imparte técnica clásica en escuela superior.",Docencia Superior,Presencial,40,2025-08-01,12,2488
+DAN005,Instructora de Danza Moderna,"Clases extracurriculares en instituto.",Educación Continua,Presencial,30,2025-08-15,12,1500
+DAN006,Profesora de Danza Medio Tiempo,"Clases semanales en colegio privado.",Docencia Escolar,Presencial,16,2025-08-20,10,700
+DAN007,Docente de Danza Teatro,"Combina danza y actuación en colegio.",Arte Escénico,Presencial,40,2025-08-05,12,1200
+DAN008,Coreógrafa Freelance,"Crea y coordina presentaciones escolares.",Producción Cultural,Presencial,10,2025-08-08,6,1000
+DAN009,Profesora de Danza Escolar,"Se especializa en danza folclórica escolar.",Docencia Escolar,Presencial,40,2025-08-18,12,2000
+DAN010,Instructora de Danza Rítmica,"Clases para niños en comunidad.",Deporte Escolar,Presencial,20,2025-08-22,12,800
+INI001,Profesora de Educación Inicial,"Planifica y enseña a bebés y niños pequeños.",Docencia Infantil,Presencial,40,2025-08-01,24,1300
+INI002,Auxiliar de Aula Inicial,"Apoya al docente principal, medio tiempo.",Acompañamiento Pedagógico,Presencial,20,2025-08-07,24,1130
+INI003,Docente de Inicial (Trujillo),"Clases presenciales y uso de TIC.",Docencia Infantil,Presencial,40,2025-08-01,24,1600
+INI004,Auxiliar de Educación Inicial,"Soporte en actividades lúdicas.",Pedagogía Inicial,Presencial,20,2025-08-05,24,1000
+INI005,Profesora Inicial Educa,"Clases en colegio privado nivel inicial.",Docencia Infantil,Presencial,40,2025-08-10,24,1600
+INI006,Docente Inicial Comas,"Implementación curricular.",Docencia Infantil,Presencial,40,2025-08-15,24,1500
+INI007,Licenciada en Inicial,"Clases y coordinación didáctica.",Docencia Infantil,Presencial,40,2025-08-20,24,1525
+INI008,Auxiliar Ejidos Tacna,"Apoyo pedagógico inicial.",Pedagogía Inicial,Presencial,20,2025-08-25,24,1000
+INI009,Practicante Educación Inicial,"Apoyo a prácticas en aula.",Formación Docente,Presencial,20,2025-08-29,12,500
+INI010,Docente Inicial Miraflores,"Planificación y enseñanza infantil.",Docencia Infantil,Presencial,40,2025-09-01,24,1300
+PRI001,Docente Primaria Lima,"Clases de nivel inicial a primaria.",Docencia Escolar,Presencial,40,2025-08-01,24,1600
+PRI002,Docente Inglés Primaria,"Clases bilingües en colegio privado.",Docencia Escolar,Presencial,40,2025-08-05,24,2000
+PRI003,Coordinador Educativo Inicial/Primaria,"Supervisión de aula y actividades.",Gestión Escolar,Presencial,40,2025-08-10,24,1800
+PRI004,Docente Ciencias Sociales Primaria,"Clases en colegio urbano.",Docencia Escolar,Presencial,40,2025-08-15,24,1500
+PRI005,Auxiliar de Aula Primaria,"Apoyo general al docente, medio tiempo.",Soporte Pedagógico,Presencial,20,2025-08-20,24,1130
+PRI006,Docente Matemática Primaria,"Enseñanza de matemáticas.",Docencia Escolar,Presencial,40,2025-08-25,24,1600
+PRI007,Profesor de Primaria Trujillo,"Clases y herramientas pedagógicas.",Docencia Escolar,Presencial,40,2025-09-01,24,1500
+PRI008,Docente de Primaria y Secundaria,"Clases en colegio privado.",Docencia Escolar,Presencial,40,2025-08-18,24,1600
+PRI009,Docente de Primaria Innovador,"Uso de metodologías activas.",Docencia Escolar,Presencial,40,2025-08-22,24,1550
+PRI010,Docente Ciencia/Inicial,"Multigrado en niveles inicial y primaria.",Docencia Escolar,Presencial,40,2025-08-08,24,1600
+EF001,Profesor de Educación Física Primaria,"Clases y evaluación de habilidades motrices en IEP.",Docencia Escolar,Presencial,40,2025-08-01,12,1800
+EF002,Profesor de Educación Física y Natación,"Instrucción en natación y deportes en colegio privado.",Deportes,Presencial,40,2025-08-10,12,2100
+EF003,Instructor de Pilates y bienestar laboral,"Clases de bienestar y pausas activas en empresa.",Bienestar Corporativo,Híbrido,30,2025-08-05,24,2000
+EF004,Coordinador de Deportes Escolar,"Organización de torneos y gestión de actividades deportivas.",Gestión Deportiva,Presencial,40,2025-08-20,24,2300
+EF005,Profesor de Atletismo y Fitness,"Entrenamiento deportivo en club o academia.",Deporte Escolar,Presencial,35,2025-09-01,24,2200
+EF006,Entrenador de Básquet Juvenil,"Capacitación y seguimiento de equipo escolar.",Entrenamiento Deportivo,Presencial,20,2025-08-12,18,1500
+EF007,Profesor de Educación Física Secundaria,"Clases deportivas y formación física en secundaria.",Docencia Escolar,Presencial,40,2025-08-18,12,2000
+EF008,Coach de Escuela de Fútbol,"Desarrollo de habilidades deportivas en jóvenes.",Deporte Formativo,Presencial,25,2025-08-22,24,2000
+EF009,Instructor de Yoga y Estiramiento,"Clases para reducir estrés en población adulta.",Bienestar,Presencial,30,2025-08-08,24,1900
+EF010,Profesor de Educación Física Medio Tiempo,"Clases escolares y recreación, medio tiempo.",Docencia Escolar,Presencial,20,2025-08-10,12,900
+PED001,Pedagogo Educativo Escolar,"Planeación curricular y apoyo a docentes en colegio.",Docencia Escolar,Presencial,40,2025-08-01,24,2500
+PED002,Especialista en Diseño Curricular,"Desarrollo de currículos y didáctica para instituciones.",Currículo Educativo,Remoto,30,2025-08-10,24,3000
+PED003,Pedagogo en Educación Especial,"Atención a estudiantes con necesidades educativas.",Educación Inclusiva,Presencial,40,2025-08-05,24,2800
+PED004,Consultor Pedagógico para EdTech,"Implementación de metodologías activas en plataforma.",Tecnología Educativa,Remoto,35,2025-08-20,24,3200
+PED005,Pedagogo de Formación Laboral,"Diseño de talleres y capacitación para jóvenes.",Formación Técnica,Presencial,40,2025-09-01,24,2700
+PED006,Pedagogo Comunitario,"Acciones pedagógicas en proyectos sociales y educativos.",Educación Comunitaria,Híbrido,35,2025-08-12,24,2600
+PED007,Pedagogo en Tutoría Académica,"Apoyo personalizado a estudiantes en secundaria.",Tutoría Escolar,Presencial,20,2025-08-18,24,2200
+PED008,Coordinador de Formación Docente,"Gestión de talleres para profesores en institución.",Capacitación Docente,Remoto,30,2025-08-22,24,2900
+PED009,Pedagogo en Educación Virtual,"Diseño y moderación de cursos online.",E-learning,Remoto,35,2025-08-08,24,3100
+PED010,Asesor Pedagógico en ONG,"Evaluación y mejora de proyectos educativos en campo.",Proyectos Sociales,Presencial,40,2025-08-10,24,3000
+PSP001,Psicopedagogo Escolar,"Evaluación y diseño de estrategias de aprendizaje en colegio.",Psicopedagogía Escolar,Presencial,40,2025-08-01,24,2200
+PSP002,Especialista en Dificultades de Aprendizaje,"Diagnóstico y apoyo a estudiantes con necesidades.",Intervención Educativa,Híbrido,35,2025-08-10,24,2400
+PSP003,Psicopedagogo Clínica,"Intervención en dificultades del desarrollo en centro clínico.",Clínica Psicopedagógica,Presencial,40,2025-08-05,24,2300
+PSP004,Coordinador de Psicopedagogía,"Gestión de programas de atención en institución educativa.",Gestión Educativa,Presencial,40,2025-08-20,24,2600
+PSP005,Psicopedagogo Online,"Asesoría remota a estudiantes y familias.",Telepsicopedagogía,Remoto,30,2025-09-01,24,2000
+PSP006,Psicopedagogo en Rehabilitación,"Apoyo psicopedagógico a niños con habilidades especiales.",Rehabilitación Educativa,Presencial,35,2025-08-12,24,2300
+PSP007,Consultor en Estrategias de Aprendizaje,"Diseño de materiales y metodologías para colegios.",Diseño Educativo,Remoto,30,2025-08-18,24,2400
+PSP008,Psicopedagogo Comunitario,"Acciones educativas para desarrollo social en comunidad.",Educación Comunitaria,Híbrido,35,2025-08-22,24,2200
+PSP009,Analista de Casos Psicopedagógicos,"Revisión y seguimiento de intervenciones educativas.",Psicopedagogía Clínica,Remoto,30,2025-08-08,24,2100
+PSP010,Psicopedagogo Junior en ONG,"Apoyo a programas educativos inclusivos.",ONG,Presencial,40,2025-08-10,24,2000
+TE001,Especialista en e‑learning,"Desarrollo de cursos online e integración de LMS.",E‑learning,Remoto,35,2025-08-01,24,3000
+TE002,Analista de Tecnología Educativa,"Integración de apps y herramientas TIC en escuelas.",Implementación TIC,Híbrido,35,2025-08-10,24,4500
+TE003,Coordinador de Innovación Educativa,"Gestión de proyectos de aulas digitales y capacitación docente.",Innovación Educativa,Presencial,40,2025-08-05,24,5000
+TE004,Consultor en Metodologías digitales,"Diseño de estrategias para formación virtual.",Transformación Digital,Remoto,30,2025-08-20,24,5500
+TE005,Desarrollador de contenidos interactivos,"Creación de materiales multimedia educativos.",Producción de Contenido,Remoto,30,2025-09-01,24,4000
+TE006,Implementador de plataformas LMS,"Configuración y soporte técnico en plataformas.",Soporte Técnico,Remoto,30,2025-08-12,20,3500
+TE007,Formador en herramientas digitales,"Capacitación docente en TIC y aulas virtuales.",Capacitación Docente,Presencial,25,2025-08-18,24,3200
+TE008,Gestor de proyectos de educación híbrida,"Coordinación de modelo blended learning.",Gestión Educativa,Híbrido,35,2025-08-22,24,4800
+TE009,Especialista en realidad aumentada educativa,"Implementación de AR para aprendizaje práctico.",Innovación Tecnológica,Remoto,30,2025-08-08,24,5200
+TE010,Jefe de Tecnología Educativa,"Planificación estratégica tecnológica en institución.",Dirección de Tecnología Educativa,Presencial,40,2025-08-10,24,8000
+GAS001,Ayudante de Cocina,"Apoyo en preparación y limpieza de platos.",Producción de Cocina,Presencial,40,2025-08-01,24,1200
+GAS002,Cocinero de Línea,"Preparación de platos bajo estándar del chef.",Cocina,Presencial,40,2025-08-10,24,2000
+GAS003,Chef de Partida,"Responsable de estación de cocina y equipo.",Cocina Profesional,Presencial,45,2025-08-05,24,3000
+GAS004,Sous Chef,"Coordinación de brigada y supervisión de cocina.",Cocina Gourmet,Presencial,45,2025-08-20,24,5000
+GAS005,Chef Ejecutivo,"Jefatura total de cocina en restaurante u hotel.",Direccion de Cocina,Presencial,45,2025-09-01,24,8000
+GAS006,Pastelero,"Preparación de postres y panadería fina.",Repostería,Presencial,40,2025-08-12,24,2500
+GAS007,Consultor Gastronómico,"Diseño de menú y asesoría técnica.",Consultoría,Remoto,30,2025-08-18,24,4000
+GAS008,Gerente de Alimentos y Bebidas,"Gestión operativa de cocina y B&B.",Gestión Hotelera,Presencial,40,2025-08-22,24,6000
+GAS009,Instructor de Cocina,"Capacitación en institutos culinarios.",Docencia Culinaria,Presencial,30,2025-08-08,24,2200
+GAS010,Productor de Catering,"Organización y ejecución de catering corporativo.",Catering,Presencial,50,2025-08-10,24,3500
+TUR001,Agente de Reservas,"Gestión de reservas y atención al cliente.",Reservas,Remoto,35,2025-08-01,24,1200
+TUR002,Guía Turístico,"Conducción de tours y atención personalizada.",Tour Operador,Presencial,40,2025-08-10,24,1600
+TUR003,Asesor de Ventas Turísticas,"Ventas de paquetes turísticos y asesoría.",Ventas,Presencial,40,2025-08-05,24,1500
+TUR004,Coordinador de Operaciones Turísticas,"Organización logística de actividades.",Operaciones,Presencial,45,2025-08-20,24,2000
+TUR005,Especialista en Ecoturismo,"Desarrollo y gestión de rutas ecológicas.",Ecoturismo,Presencial,40,2025-09-01,24,2200
+TUR006,Consultor de Turismo Cultural,"Desarrollo de propuestas culturales y patrimoniales.",Turismo Cultural,Remoto,30,2025-08-12,2400
+TUR007,Coordinador de Agencia de Viajes,"Gestión administrativa y atención a clientes.",Agencia de Viajes,Híbrido,35,2025-08-18,24,2300
+TUR008,Especialista en Turismo Sostenible,"Consultoría de prácticas turísticas responsables.",Turismo Sustentable,Remoto,30,2025-08-22,2500
+TUR009,Gerente de Producto Turístico,"Diseño de nuevos productos y experiencias turísticas.",Desarrollo de Producto,Híbrido,35,2025-08-08,2700
+TUR010,Community Manager Turismo,"Gestión de comunidades y contenido turístico digital.",Marketing Turístico,Remoto,30,2025-08-10,1800
+AVI001,Piloto Comercial Junior,"Operación de vuelos nacionales bajo supervisión.",Aviación Comercial,Presencial,80,2025-08-01,Indefinido,4000
+AVI002,Co‑piloto de Aerolínea,"Asistencia al capitán en vuelos nacionales e internacionales.",Aviación Comercial,Presencial,80,2025-08-15,Indefinido,12000
+AVI003,Capitán de Aerolínea,"Responsable de aeronave y tripulación en vuelos internacionales.",Aviación Comercial,Presencial,80,2025-08-05,Indefinido,20000
+AVI004,Piloto de Aviación Ejecutiva,"Facilita vuelos privados y corporativos.",Aviación Ejecutiva,Presencial,60,2025-08-20,Indefinido,15000
+AVI005,Instructor de Pilotos,"Formación de nuevos pilotos comerciales.",Formación,Presencial,40,2025-09-01,Indefinido,1500
+AVI006,Piloto de Carga Internacional,"Operación de vuelos charter de carga.",Aviación Carga,Presencial,80,2025-08-12,Indefinido,20000
+AVI007,Piloto de Helicóptero,"Operación en vuelos privados, rescate o servicios.",Helicópteros,Presencial,60,2025-08-18,Indefinido,12000
+AVI008,Piloto Comercial Part‑Time,"Operación de vuelos regionales de bajo tráfico.",Aviación Regional,Presencial,40,2025-08-22,Indefinido,5000
+AVI009,Operador de Simulador de Vuelo,"Supervisión en entrenamientos en centro de simulación.",Simulación Aérea,Presencial,40,2025-08-08,Indefinido,8000
+AVI010,Analista de Operaciones Aeronáuticas,"Planificación de itinerarios y gestión operacional.",Operaciones,Remoto,40,2025-08-10,Indefinido,6000
+CRI001,Criminalista Forense Junior,"Recolección de pruebas en escenas de crimen.",Investigación Forense,Presencial,40,2025-08-01,24,2000
+CRI002,Analista de Evidencias Digitales,"Procesamiento forense de dispositivos electrónicos.",Pericia Digital,Remoto,40,2025-08-15,24,3000
+CRI003,Perito Criminalístico,"Elaboración de informes técnicos en laboratorios.",Laboratorio Forense,Presencial,40,2025-08-05,24,3500
+CRI004,Especialista en Balística,"Análisis y reporte de evidencias balísticas.",Balística Forense,Presencial,40,2025-08-20,24,4000
+CRI005,Coordinador de Criminalística,"Supervisión de equipos de investigación forense.",Gestión Forense,Presencial,40,2025-09-01,24,5000
+CRI006,Investigador Privado,"Investigación de fraudes y delitos corporativos.",Investigación Privada,Híbrido,35,2025-08-12,24,2800
+CRI007,Criminalista en Policía Técnica,"Apoyo en investigación y recolección en campo.",Sector Público,Presencial,40,2025-08-18,24,2500
+CRI008,Analista de ADN Forense,"Procesamiento y validación de perfiles genéticos.",Genética Forense,Presencial,40,2025-08-22,24,4500
+CRI009,Consultor Criminalístico Freelance,"Peritaje para procesos jurídicos.",Consultoría Forense,Remoto,30,2025-08-08,20,3000
+CRI010,Docente de Criminalística,"Imparte cursos en instituto técnico o universitario.",Docencia Técnica,Presencial,20,2025-08-10,24,3200
+ADM001,Administrador Portuario,"Gestión operativa y administrativa de terminal portuario.",Administración Portuaria,Presencial,48,2025-08-01,Indefinido,6400
+ADM002,Coordinador de Operaciones Marítimas,"Planificación y supervisión de embarques.",Operaciones Marítimas,Presencial,45,2025-08-10,24,8000
+ADM003,Supervisor de Logística Naviera,"Control de carga, tránsito y documentación.",Logística Marítima,Presencial,45,2025-08-05,24,7000
+ADM004,Especialista en Seguridad Marítima,"Implementación de normas IMO y gestión HSE.",Seguridad Marítima,Presencial,40,2025-08-20,24,7500
+ADM005,Inspector Marítimo Senior,"Inspección técnica de buques y certificación.",Inspección Naval,Presencial,40,2025-09-01,24,9000
+ADM006,Gerente de Terminal Marítima,"Responsable de P&L y gestión estratégica del puerto.",Dirección Portuaria,Presencial,48,2025-08-12,Indefinido,18000
+ADM007,Analista en Comercio Internacional,"Trámites aduaneros y operaciones de import/export.",Comercio Exterior,Remoto,40,2025-08-18,24,6000
+ADM008,Consultor en Gestión Portuaria,"Asesoría en optimización de procesos logísticos.",Consultoría Portuaria,Remoto,30,2025-08-22,20,10000
+ADM009,Coordinador de Flota,"Programación y control de buques y rutas.",Gestión de Flota,Presencial,45,2025-08-08,24,8500
+ADM010,Docente en Administración Marítima,"Imparte cursos en escuela naval o universitaria.",Docencia Técnica,Presencial,20,2025-08-10,24,7000
+CA001,Especialista en Calidad de Alimentos,"Control de calidad, inocuidad y normativas.",Calidad Alimentaria,Presencial,40,2025-08-01,24,1900
+CA002,Analista de Laboratorio de Alimentos,"Análisis microbiológicos y físicos-químicos en planta.",Laboratorio,Presencial,40,2025-08-10,24,1800
+CA003,Coordinador de Producción Alimentaria,"Supervisión de procesos y eficiencia productiva.",Producción,Presencial,45,2025-08-05,24,2100
+CA004,Ingeniero de Desarrollo de Producto,"Formulación de nuevos alimentos y pruebas sensoriales.",I+D Alimentario,Híbrido,35,2025-08-20,24,2000
+CA005,Auditor de Sistemas HACCP,"Implementación y auditoría de sistemas de inocuidad.",Inocuidad Alimentaria,Remoto,30,2025-09-01,24,2200
+CA006,Consultor en Normativa Alimentaria,"Asesoría en etiquetado, registro y certificaciones.",Regulación Alimentaria,Remoto,30,2025-08-12,2300
+CA007,Especialista en Seguridad Alimentaria,"Gestión de riesgos y trazabilidad en cadena.",Seguridad Alimentaria,Presencial,40,2025-08-18,24,2500
+CA008,Coordinador de Calidad en Elaboración,"Supervisión de calidad en planta de alimentos.",Calidad,Presencial,40,2025-08-22,24,2100
+CA009,Formador Tecnológico de Alimentos,"Capacitación a técnicos y producción en terreno.",Capacitación,Presencial,30,2025-08-08,24,2000
+CA010,Jefe de Planta de Alimentos,"Responsable general del área productiva.",Gerencia de Producción,Presencial,45,2025-08-10,Indefinido,3000
+CF001,Técnico Forense Junior,"Recolección de pruebas y cadena de custodia.",Investigación Forense,Presencial,40,2025-08-01,24,1700
+CF002,Analista de Evidencia Digital,"Peritaje forense en dispositivos electrónicos.",Forense Digital,Remoto,40,2025-08-15,24,2500
+CF003,Asistente de Autopsia,"Apoyo a médicos forenses en sala de necropsia.",Medicina Forense,Presencial,40,2025-08-05,24,3000
+CF004,Criminalista Especializado,"Procesamiento batallón forense y balística.",Balística Forense,Presencial,40,2025-08-20,24,3500
+CF005,Investigador Forense,"Coordinación de escenas del crimen y peritaje.",Investigador Criminal,Presencial,45,2025-09-01,24,4000
+CF006,Genetista Forense,"Análisis de ADN y elaboración de perfiles genéticos.",ADN Forense,Presencial,40,2025-08-12,24,4500
+CF007,Coordinador de Criminalística,"Supervisión de laboratorio forense.",Gestión Forense,Presencial,40,2025-08-18,24,5000
+CF008,Forense Químico,"Análisis de sustancias y toxicología en laboratorio.",Toxicología,Presencial,40,2025-08-22,24,3000
+CF009,Docente en Criminalística,"Formación técnica en instituto o universidad.",Docencia Forense,Presencial,20,2025-08-08,24,3200
+CF010,Consultor Forense Privado,"Apoyo pericial en casos civiles y penales.",Consultoría Forense,Remoto,30,2025-08-10,20,2800
+CF001,Técnico Forense Junior,"Recolección de pruebas y cadena de custodia.",Investigación Forense,Presencial,40,2025-08-01,24,1700
+CF002,Analista de Evidencia Digital,"Peritaje forense en dispositivos electrónicos.",Forense Digital,Remoto,40,2025-08-15,24,2500
+CF003,Asistente de Autopsia,"Apoyo a médicos forenses en sala de necropsia.",Medicina Forense,Presencial,40,2025-08-05,24,3000
+CF004,Criminalista Especializado,"Procesamiento batallón forense y balística.",Balística Forense,Presencial,40,2025-08-20,24,3500
+CF005,Investigador Forense,"Coordinación de escenas del crimen y peritaje.",Investigador Criminal,Presencial,45,2025-09-01,24,4000
+CF006,Genetista Forense,"Análisis de ADN y elaboración de perfiles genéticos.",ADN Forense,Presencial,40,2025-08-12,24,4500
+CF007,Coordinador de Criminalística,"Supervisión de laboratorio forense.",Gestión Forense,Presencial,40,2025-08-18,24,5000
+CF008,Forense Químico,"Análisis de sustancias y toxicología en laboratorio.",Toxicología,Presencial,40,2025-08-22,24,3000
+CF009,Docente en Criminalística,"Formación técnica en instituto o universidad.",Docencia Forense,Presencial,20,2025-08-08,24,3200
+CF010,Consultor Forense Privado,"Apoyo pericial en casos civiles y penales.",Consultoría Forense,Remoto,30,2025-08-10,20,2800
+BIB001,Bibliotecólogo CAS Gestion documental,"Organización y digitalización de archivos bibliográficos.",Archivo/Digital,Presencial,40,2025-08-01,24,5000
+BIB002,Especialista en Referencia Académica,"Atención a consultas y apoyo a investigadores.",Referencia,Presencial,40,2025-08-10,24,3200
+BIB003,Archivero de Biblioteca Universitaria,"Gestión de colecciones y preservación de publicaciones.",Archivo,Presencial,40,2025-08-05,24,3000
+BIB004,Coordinador de Biblioteca Escolar,"Planificación de actividades de fomento de lectura.",Educativo,Presencial,35,2025-08-20,12,2200
+BIB005,Técnico en Catalogación,"Clasificación y descripción de nuevos materiales.",Catalogación,Remoto,30,2025-09-01,24,1800
+BIB006,Digitalizador de Revistas,"Escaneo y mantenimiento de revistas y periódicos.",Digitalización,Remoto,30,2025-08-12,12,1700
+BIB007,Curador de Colección Especial,"Selección y conservación de colecciones patrimoniales.",Curaduría,Presencial,40,2025-08-18,24,3500
+BIB008,Docente de Biblioteconomía,"Imparte cursos en universidades o institutos.",Docencia,Presencial,20,2025-08-22,24,4000
+BIB009,Gestor de Biblioteca Comunitaria,"Organización de eventos culturales y préstamos.",Gestión Comunitaria,Presencial,40,2025-08-08,24,2300
+BIB010,Analista de Gestión del Conocimiento,"Implementación de sistemas de información en empresa.",KM Corporativo,Híbrido,35,2025-08-10,24,3600
+TRAD001,Traductor Corporativo,"Traducción técnica de contratos y manuales.",Traducción,Remoto,40,2025-08-01,24,2800
+TRAD002,Intérprete Simultáneo,"Interpretación en conferencias y encuentros empresariales.",Interpretación,Presencial,40,2025-08-10,24,3500
+TRAD003,Traductor Freelance Especializado,"Proyectos en áreas legales o técnicas.",Freelance,Remoto,30,2025-08-05,20,2500
+TRAD004,Intérprete Telefónico,"Interpretación en call center para usuarios internacionales.",Teleinterpretación,Remoto,40,2025-08-20,24,1820
+TRAD005,Localizador de Software,"Adaptación de interfaces y documentación.",Localización,Remoto,30,2025-09-01,24,3000
+TRAD006,Editor-Corrector de Traducciones,"Revisión de calidad y estilo lingüístico.",Edición,Remoto,30,2025-08-12,24,2400
+TRAD007,Intérprete Médico,"Interpretación en entornos clínicos o hospitalarios.",Interpretación,Presencial,40,2025-08-18,24,4500
+TRAD008,Traductor Jurado,"Traducciones legales certificadas.",Traducción Legal,Presencial,20,2025-08-22,24,3200
+TRAD009,Formador de Idiomas,"Docencia de traducción en institutos o universidades.",Docencia,Presencial,20,2025-08-08,24,2500
+TRAD010,Coordinador de Proyectos Lingüísticos,"Gestión de equipos de traductores en empresa.",Gestión,Remoto,35,2025-08-10,24,4000
+MEC001,Mecánico Automotriz General,"Diagnóstico y reparación de vehículos de pasajeros.",Taller Automotriz,Presencial,40,2025-08-01,Indefinido,1600
+MEC002,Técnico Mecánico Automotriz,"Revisión preventiva y afinamiento general.",Taller Automotriz,Presencial,40,2025-08-10,Indefinido,1500
+MEC003,Inspector PDI Automotriz,"Revisión pre-entrega en agencia.",Control de Calidad,Presencial,40,2025-08-05,Indefinido,1500
+MEC004,Mecánico Electricista Automotriz,"Reparación de sistemas eléctricos y electrónicos.",Especialidad Eléctrica,Presencial,40,2025-08-20,Indefinido,1819
+MEC005,Mecánico de Flotas,"Administración y mantenimiento de flotillas vehiculares.",Logística,Presencial,45,2025-09-01,Indefinido,1700
+MEC006,Mecánico de Camiones Pesados,"Servicio y reparación de vehículos de carga.",Mecánica Pesada,Presencial,45,2025-08-12,Indefinido,2000
+MEC007,Supervisor de Taller,"Coordinación de equipo y calidad técnica.",Gestión de Taller,Presencial,40,2025-08-18,Indefinido,2200
+MEC008,Técnico en Inyección Electrónica,"Diagnóstico de sistemas de combustible moderno.",Especialidad,Presencial,40,2025-08-22,Indefinido,1800
+MEC009,Mecánico a Domicilio,"Servicio técnico personalizado en hogar o empresa.",Servicio Móvil,Presencial,40,2025-08-08,Indefinido,1800
+MEC010,Instructor de Mecánica,"Formación técnica en institutos o academia.",Docencia,Presencial,20,2025-08-10,24,2000
+EI001,Técnico Electricista Industrial,"Instalación y mantenimiento de sistemas eléctricos industriales.",Producción,Presencial,40,2025-08-01,Indefinido,1734
+EI002,Supervisor de Mantenimiento Eléctrico,"Coordinación de equipo y mantenimiento en planta.",Mantenimiento,Presencial,45,2025-08-10,Indefinido,2500
+EI003,Ingeniero Eléctrico Junior,"Apoyo en diseño de tableros y sistemas eléctricos.",Diseño Eléctrico,Híbrido,35,2025-08-05,24,3000
+EI004,Especialista en Control Industrial,"Implementación y configuración de PLCs y SCADA.",Automatización,Remoto,35,2025-08-20,24,3500
+EI005,Electricista de Alta Tensión,"Operación en subestaciones y sistemas de distribución.",Energía,Presencial,40,2025-09-01,Indefinido,3200
+EI006,Técnico de Instrumentación Eléctrica,"Medición y calibración de instrumentos en planta.",Instrumentación,Presencial,40,2025-08-12,24,2000
+EI007,Coordinador Eléctrico de Obra,"Supervisión de instalación eléctrica en obras.",Construcción,Presencial,45,2025-08-18,24,2800
+EI008,Mantenedor de Motores Industriales,"Mantenimiento preventivo y correctivo de motores.",Mantenimiento,Presencial,40,2025-08-22,Indefinido,2200
+EI009,Inspector Eléctrico de Seguridad,"Verificación de normas y protocolos en instalaciones.",Seguridad Eléctrica,Presencial,40,2025-08-08,24,2400
+EI010,Formador Técnico en Electricidad Industrial,"Capacitación a personal en SENATI o empresa.",Docencia Técnica,Presencial,20,2025-08-10,24,2600
+EL001,Técnico en Electrónica,"Reparación de equipos electrónicos y circuitos.",Mantenimiento,Presencial,40,2025-08-01,Indefinido,1529
+EL002,Técnico en Telecomunicaciones,"Instalación y diagnóstico de redes y antenas.",Comunicaciones,Presencial,40,2025-08-10,Indefinido,1600
+EL003,Ingeniero Electrónico Junior,"Diseño y pruebas de prototipos electrónicos.",I+D,Remoto,35,2025-08-05,24,3200
+EL004,Especialista en Control de Calidad Electrónico,"Pruebas y validación en línea de montaje.",Calidad,Presencial,40,2025-08-20,24,2500
+EL005,Técnico en Audio e Iluminación,"Instalación y mantenimiento de sistemas de sonido.",Eventos,Presencial,40,2025-09-01,24,1800
+EL006,Electrónico en Mantenimiento Aeronáutico,"Soporte en sistemas electrónicos de aeronaves.",Aeronáutica,Presencial,40,2025-08-12,24,2800
+EL007,Técnico en Domótica,"Instalación de sistemas smart en viviendas e industrias.",Automatización,Presencial,40,2025-08-18,24,2200
+EL008,Formador Técnico en Electrónica,"Docencia en instituto o academia técnica.",Docencia Técnica,Presencial,20,2025-08-22,24,2600
+EL009,Consultor en Sistemas Embebidos,"Desarrollo y asesoría para proyectos IoT.",Consultoría,Remoto,30,2025-08-08,24,3000
+EL010,Inspector de Instalaciones Electrónicas,"Revisión conforme a normas técnicas.",Seguridad,Presencial,40,2025-08-10,24,2400
+RC001,Técnico en Refrigeración Industrial,"Mantenimiento de sistemas de frío en planta.",Mantenimiento,Presencial,40,2025-08-01,Indefinido,1927
+RC002,Técnico en Climatización Compleja,"Instalación y servicio de HVAC en edificios.",HVAC,Presencial,40,2025-08-10,Indefinido,2200
+RC003,Especialista en Refrigeración Comercial,"Servicio en supermercados y centros comerciales.",Comercial,Presencial,40,2025-08-05,Indefinido,2100
+RC004,Supervisor de Climatización,"Coordinación de proyectos e instalaciones.",Gestión de Proyectos,Híbrido,35,2025-08-20,24,2800
+RC005,Ingeniero en Refrigeración Industrial,"Diseño y cálculo térmico en planta industrial.",Diseño,Remoto,35,2025-09-01,24,3200
+RC006,Inspector de Sistemas HVAC,"Revisión de cumplimiento de normativas técnicas.",Seguridad,Presencial,40,2025-08-12,24,2400
+RC007,Formador en Climatización,"Docencia en SENATI o centros técnicos.",Docencia Técnica,Presencial,20,2025-08-18,24,2300
+RC008,Consultor en Eficiencia Energética HVAC,"Optimización de sistemas térmicos en edificios.",Consultoría,Remoto,30,2025-08-22,24,3000
+RC009,Técnico de Mantenimiento de Chillers,"Mantenimiento de sistemas de enfriamiento industrial.",Mantenimiento,Presencial,40,2025-08-08,Indefinido,2300
+RC010,Coordinador de Proyectos HVAC,"Planificación y ejecución de instalaciones de climatización.",Project Management,Presencial,40,2025-08-10,24,3000
+TEL001,Técnico en Telecomunicaciones,"Instalación y mantenimiento de redes e infraestructura.",Soporte,Presencial,40,2025-08-01,Indefinido,1671
+TEL002,Ingeniero de Redes Junior,"Configuración de routers, switches y seguridad de red.",Redes,Híbrido,40,2025-08-10,24,2801
+TEL003,Supervisor de Instalaciones de Telecom,"Coordinación técnica en campo y control de calidad.",Supervisión,Presencial,45,2025-08-05,Indefinido,2200
+TEL004,Técnico en Fibra Óptica,"Instalación y prueba de enlaces de comunicación.",Instalación,Presencial,40,2025-08-20,24,1700
+TEL005,Analista de Telecomunicaciones,"Monitoreo de redes y resolución de incidencias.",Operaciones,Remoto,40,2025-09-01,24,2000
+TEL006,Coordinador de Proyectos Telecom,"Gestión de proyectos técnicos y cronogramas.",Project Management,Presencial,40,2025-08-12,24,3000
+TEL007,Técnico de Soporte de Telecom,"Asistencia en mantenimiento preventivo y correctivo.",Soporte,Presencial,40,2025-08-18,Indefinido,1650
+TEL008,Ingeniero en Telecomunicaciones Senior,"Arquitectura e integración de sistemas de comunicación.",Diseño,Remoto,40,2025-08-22,24,3500
+TEL009,Configurador de Equipos CWDM/DWDM,"Trabajo con equipos de multiplexación densa.",Especialista,Presencial,40,2025-08-08,24,2400
+TEL010,Formador Técnico en Telecom,"Capacitación técnica en institutos como SENATI.",Docencia Técnica,Presencial,20,2025-08-10,24,2600
+AGR001,Técnico Agrícola,"Apoyo en producción y manejo de cultivos.",Campo,Presencial,40,2025-08-01,Indefinido,1500
+AGR002,Coordinador de Campo Agrícola,"Supervisión de labores agrícolas y equipo.",Supervisión,Presencial,45,2025-08-10,24,3000
+AGR003,Ingeniero Agrónomo Junior,"Asistencia técnica en mejoras de cultivos.",I+D Agrícola,Remoto,40,2025-08-05,24,1800
+AGR004,Asesor en Riego y Fertilización,"Optimización de recursos hídricos y nutrientes.",Especialista,Presencial,40,2025-08-20,24,2000
+AGR005,Analista de Producción Agrícola,"Monitoreo de rendimiento y registro de datos.",Control de Producción,Remoto,35,2025-09-01,24,1600
+AGR006,Supervisor de Cosecha,"Planeación y coordinación de recolección de productos.",Operaciones,Presencial,45,2025-08-12,24,2500
+AGR007,Técnico en Sanidad Vegetal,"Control de plagas y enfermedades en cultivos.",Sanidad,Presencial,40,2025-08-18,24,1700
+AGR008,Gerente de Finca,"Administración integral de operaciones agrícolas.",Dirección,Presencial,45,2025-08-22,Indefinido,4000
+AGR009,Instructor Agrícola,"Capacitación a agricultores en prácticas agrícolas.",Docencia,Presencial,20,2025-08-08,24,1800
+AGR010,Consultor Agrícola Freelance,"Asesoría técnica en proyectos agrícolas.",Consultoría,Remoto,30,2025-08-10,24,2300
+SW001,Desarrollador de Software Junior,"Colaboración en desarrollo frontend/backend.",Desarrollo,Presencial,40,2025-08-01,24,2600
+SW002,Programador Backend,"Desarrollo de lógica de negocio y bases de datos.",Backend,Remoto,40,2025-08-10,24,3000
+SW003,Frontend Developer,"Implementación de interfaces y user experience.",Frontend,Remoto,40,2025-08-05,24,2800
+SW004,Desarrollador Full‑Stack,"Proyectos completos de backend y frontend.",Full‑Stack,Híbrido,40,2025-08-20,24,3300
+SW005,DevOps Engineer,"Automatización y gestión de infraestructura CI/CD.",DevOps,Remoto,40,2025-09-01,24,4000
+SW006,Mobile Developer,"Desarrollo de apps móviles iOS o Android.",Móvil,Remoto,40,2025-08-12,24,2800
+SW007,QA Automation Engineer,"Pruebas automatizadas y aseguramiento de calidad.",Testing,Remoto,35,2025-08-18,24,3200
+SW008,Senior Software Engineer,"Liderazgo técnico y mentoría en equipo.",Senior,Híbrido,40,2025-08-22,24,6000
+SW009,Technical Lead,"Coordinación de equipos y diseño de arquitectura.",Liderazgo,Híbrido,40,2025-08-08,24,7000
+SW010,Software Engineer Freelance,"Desarrollo freelance para clientes locales/extranjeros.",Freelance,Remoto,30,2025-08-10,24,5000
+ML001,Ingeniero de Machine Learning Junior,"Desarrollo de modelos básicos y limpieza de datos.",ML,Remoto,40,2025-08-01,24,3000
+ML002,ML Engineer,"Implementación de pipelines de ML en producción.",Ingeniería de ML,Híbrido,40,2025-08-10,24,5000
+ML003,Científico de Datos con ML,"Modelado predictivo y optimización de algoritmos.",Data Science,Remoto,40,2025-08-05,24,6000
+ML004,Ingeniero ML Senior,"Despliegue en Azure y optimización de modelos.",ML Senior,Presencial,40,2025-08-20,Indefinido,8000
+ML005,ML Engineer Agroindustrial,"Modelos ML en sector agroindustria (Michael Page)",ML Agroindustrial,Presencial,40,2025-09-01,Indefinido,12000
+ML006,Investigador de Aprendizaje Profundo,"Desarrollo de redes neuronales y DL.",Deep Learning,Remoto,40,2025-08-12,24,7000
+ML007,Especialista en Visión por Computadora,"Modelo CV para detección de imágenes.",Visión Computacional,Remoto,40,2025-08-18,24,7000
+ML008,Ingeniero MLOps,"Automatización y escalabilidad de modelos en nube.",MLOps,Híbrido,40,2025-08-22,24,6500
+ML009,Analista ML para fintech,"Modelos de riesgo crediticio y scoring.",Fintech,Remoto,35,2025-08-08,24,5500
+ML010,Docente de Machine Learning,"Impartir cursos y laboratorios en instituto.",Docencia ML,Presencial,20,2025-08-10,24,4000

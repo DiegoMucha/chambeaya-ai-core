@@ -1,0 +1,12 @@
+numpy
+pandas
+re3
+spacy
+ipykernel
+requests
+geopy
+scikit-learn
+nltk
+fastAPI
+uvicorn
+email-validator

@@ -1,1 +1,4 @@
+# Eliminar venv
 venv/
+
+__pycache__/
