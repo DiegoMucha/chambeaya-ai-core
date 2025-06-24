@@ -10,13 +10,13 @@ preprocesador = Preprocesador()
 
 # Datos de prueba (estudiante único)
 estudiante_prueba = Estudiante(
-    career="Ciencias de la Computación",
-    habilidades_destacadas="Python, C++, JavaScript, React",
-    areas_interes="Desarrollo de Software, Desarrollo Backend",
-    description="Apasionado por la tecnología y crear soluciones innovadoras.",
-    experience_id="Desarrollador de software con 3 años de experiencia en Python y JavaScript.",
+    career="Medicina",
+    habilidades_destacadas="Tomar Presión, Diagnosticar Enfermedades",
+    areas_interes="Neurología, Neurocirugía",
+    description="Estudiante de medicina con interés en neurología y neurocirugía.",
+    experience_id="Cuidar a familiares enfermos",
     preferred_modality=1,
-    weekly_availability=20
+    weekly_availability=30
 )
 
 @app.get("/")
