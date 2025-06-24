@@ -1,20 +1,12 @@
 # Todas las librerias que se deben importar
-import nltk
 from nltk.corpus import stopwords
 import re
 import pandas as pd
 import numpy as np
 import spacy
 from spacy.lang.es.stop_words import STOP_WORDS as spacy_stopwords
-import requests
-from geopy.geocoders import Nominatim
-from geopy.distance import geodesic
-from sklearn.preprocessing import OneHotEncoder, StandardScaler
+from sklearn.preprocessing import StandardScaler
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.compose import ColumnTransformer
-from sklearn.pipeline import Pipeline
-from sklearn.base import BaseEstimator, TransformerMixin
-from sklearn.utils.validation import check_is_fitted
 from scipy.sparse import hstack
 
 # Se crea una clase preprocesador general
@@ -40,11 +32,11 @@ class Preprocesador:
 
     def crear_perfil_textual_estudiante(self, estudiante):
         return self.crear_perfil_textual(
-            ("carrera: " + str(estudiante['carrera']) + " ") * 1 +
-            ("habilidades: " + str(estudiante['habilidades_destacadas']) + " ") * 3 +
-            ("intereses: " + str(estudiante['areas_interes']) + " ") * 3 +
-            ("descripcion: " + str(estudiante['descripcion_personal']) + " ") * 3 +
-            ("experiencia: " + str(estudiante['experiencia_relevante']) + " ") * 5
+            ("career: " + str(estudiante['career']) + " ") * 1 +
+            ("skills: " + str(estudiante['habilidades_destacadas']) + " ") * 3 +
+            ("interests: " + str(estudiante['areas_interes']) + " ") * 3 +
+            ("description: " + str(estudiante['descripcion_personal']) + " ") * 3 +
+            ("experience: " + str(estudiante['experiencia_relevante']) + " ") * 5
         )
 
     def crear_perfil_textual_puesto(self, puesto):

@@ -1,4 +1,4 @@
-from models import KawsAIModel
+from models.KawsAIModel import KawsAIModel
 from fastapi import HTTPException, APIRouter
 from api_service.filter_match.ep_fm import filterMatchService
 from pydantic import BaseModel

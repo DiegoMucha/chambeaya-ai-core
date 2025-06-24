@@ -3,7 +3,7 @@ from sklearn.neighbors import NearestNeighbors
 
 class KawsAIModel:
     def __init__(self):
-        self.knn = NearestNeighbors(n_neighbors=5, metric='cosine')
+        self.knn = NearestNeighbors(n_neighbors=3, metric='cosine')
     def train(self, X_puestos):
         self.knn.fit(X_puestos)
     def get_positions(self, X_estudiante_nuevo):

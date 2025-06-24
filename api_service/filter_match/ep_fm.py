@@ -6,15 +6,13 @@ router = APIRouter()
 
 #inicializacion de clases como estudiante y job_offer para que se usen en el backend
 class Estudiante(BaseModel):
-    name: str
-    email: EmailStr
-    date_of_birth: date
-    experience_id: int
-    location: str
-    weekly_availability: int
-    preferred_modality: int
     career: str
-    academic_cycle: int
+    habilidades_destacadas: str
+    areas_interes: str
+    descripcion_personal: str
+    experiencia_relevante: str
+    preferred_modality: int
+    weekly_availability: int
 
 class Job_offer(BaseModel):
     title: str
@@ -31,6 +29,10 @@ class filterMatchService(BaseModel):
     model_score: float
     status: str
     stage: int
+
+def filter():
+    classFilter = filterMatchService
+
 
 @router.post("/filter_match")
 async def filter_match(filter_input: filterMatchService):
