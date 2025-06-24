@@ -30,19 +30,19 @@ class Preprocesador:
     # Función para crear el prefil textual de un estudiante (Pesos para cada tipo de carrera)
     def crear_perfil_textual_estudiante(self, estudiante):
         return self.crear_perfil_textual(
-            ("carrera: " + str(estudiante['carrera']) + " ") * 1 +
+            ("carrera: " + str(estudiante['career']) + " ") * 1 +
             ("habilidades: " + str(estudiante['habilidades_destacadas']) + " ") * 3 +
             ("intereses: " + str(estudiante['areas_interes']) + " ") * 3 +
-            ("descripcion: " + str(estudiante['descripcion_personal']) + " ") * 3 +
-            ("experiencia: " + str(estudiante['experiencia_relevante']) + " ") * 5
+            ("descripcion: " + str(estudiante['description']) + " ") * 3 +
+            ("experiencia: " + str(estudiante['experience_id']) + " ") * 5
         )
     
     # Función para crear el prefil textual de un puesto (Pesos para cada tipo de puesto)
     def crear_perfil_textual_puesto(self, puesto):
         return self.crear_perfil_textual(
-            ("puesto: " + str(puesto['titulo_puesto']) + " ") * 1 +
-            ("descripcion: " + str(puesto['descripcion_puesto']) + " ") * 2 +
-            ("area: " + str(puesto['area_del_puesto']) + " ") * 1 +
+            ("puesto: " + str(puesto['title']) + " ") * 1 +
+            ("descripcion: " + str(puesto['description']) + " ") * 2 +
+            ("area: " + str(puesto['area_id']) + " ") * 1 +
             ("requisitos: " + str(puesto['requisitos'])) * 5
         )
 
