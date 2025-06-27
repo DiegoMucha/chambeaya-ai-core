@@ -1,47 +1,44 @@
-from fastapi import APIRouter
-from pydantic import BaseModel, EmailStr
+from fastapi import APIRouter, Body
+from pydantic import BaseModel
 from datetime import date
+from preprocessing.preprocesador import Preprocesador
+from typing import Optional
+import pandas as pd
 
 router = APIRouter()
-
-#inicializacion de clases como estudiante y job_offer para que se usen en el backend
-class Estudiante(BaseModel):
-    career: str
-    habilidades_destacadas: str
-    areas_interes: str
-    description: str
-    experience_id: str
-    preferred_modality: int
-    weekly_availability: int
+preprocesador = Preprocesador()
 
 class Job_offer(BaseModel):
+    id: int
     title: str
     description: str
     required_hours: int
     approximated_salary: int
     duration: int
     start_date: date
+    area_id: int
+    experience_id: int
     modality: int
+    required_skills: list[int] = []
+    embedding: Optional[dict] = None
 
 class filterMatchService(BaseModel):
-    student_id: Estudiante
-    job_offer_id: Job_offer
-    model_score: float
+    job_offer_id: int
+    embedding: dict
     status: str
     stage: int
 
-def filter():
-    classFilter = filterMatchService
+@router.post("/preprocess_job_offer", response_model=filterMatchService)
+async def preprocess_job_offer(job_offer: Job_offer = Body(...)):
+    #vectorizamos el job_offer y se guarda el embedding
+    df_puesto = pd.DataFrame([job_offer.dict()])
+    X_puesto = preprocesador.fit_transform(df_puesto)
 
-
-@router.post("/filter_match")
-async def filter_match(filter_input: filterMatchService):
-    #se retorna la lista de datos filtrados para que lo use el match, y tambien
-    #para que se mande al backend y este lo guarde en la base de datos
-    return {
-        "student_id": filter_input.student_id,
-        "job_offer_id": filter_input.job_offer_id,
-        "model_score": filter_input.model_score,
-        "status": filter_input.status,
-        "stage": filter_input.stage
-    }
+    #lo convertimos a lista para el json
+    embedding = X_puesto[0].toarray().tolist()[0]
+    return filterMatchService(
+        job_offer_id=job_offer.id,
+        embedding={"vector": embedding},
+        status="filtrado",
+        stage=1
+    )
