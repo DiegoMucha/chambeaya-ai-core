@@ -9,11 +9,13 @@ class KawsAIModel:
     # n_neighbors = El número de mejores match que se va a mostrar
     # metric = El tio de métrica y comparación que se va a usar 
     def __init__(self):
-        self.knn = NearestNeighbors(n_neighbors=3, metric='euclidean')
-    # Para el entrenamiento se va a usar las matrices TF-IDF de los puestos como parametro y se usará el metodo fit
-    def train(self, X_puestos):
-        self.knn.fit(X_puestos)
-    # Función para obtener los mejores matches, se retornará los índices.
-    def get_positions(self, X_estudiante_nuevo):
-        distances, indexes = self.knn.kneighbors(X_estudiante_nuevo)
-        return distances[0], indexes[0]
+        self.knn_offer = NearestNeighbors(n_neighbors=3, metric='cosine')
+        self.knn_student = NearestNeighbors(n_neighbors=3, metric='cosine')
+    def get_best_offers(self, embedding_offers, embedding_student):
+        self.knn_student.fit(embedding_offers)
+        distances, indexes = self.knn_student.kneighbors(embedding_student)
+        return 1 - distances[0], indexes[0]
+    def get_best_students(self, embeddings_students, embedding_offer):
+        self.knn_offer.fit(embeddings_students)
+        distances, indexes = self.knn_offer.kneighbors(embedding_offer)
+        return 1 - distances[0], indexes[0]

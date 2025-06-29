@@ -43,16 +43,31 @@ class Preprocesador:
         )
 
     # Embeddings para todos los puestos
-    def fit_transform(self, puestos):
+    def get_embeddings_alloffers(self, puestos):
         puestos = puestos.copy()
         puestos['perfil_textual'] = puestos.apply(self.crear_perfil_textual_puesto, axis=1)
         corpus = puestos['perfil_textual'].tolist()
         embeddings = self.modelo_embedding.encode(corpus, convert_to_numpy=True, show_progress_bar=True)
         return embeddings
 
+    # Embeddings para todos los estudiantes
+    def get_embeddings_allstudents(self, estudiantes):
+        estudiantes = estudiantes.copy()
+        estudiantes['perfil_textual'] = estudiantes.apply(self.crear_perfil_textual_estudiante, axis=1)
+        corpus = estudiantes['perfil_textual'].tolist()
+        embeddings = self.modelo_embedding.encode(corpus, convert_to_numpy=True, show_progress_bar=True)
+        return embeddings
+    
     # Embedding para un estudiante
-    def transform_estudiante(self, estudiante):
+    def get_embedding_student(self, estudiante):
         estudiante = estudiante.copy()
         text = self.crear_perfil_textual_estudiante(estudiante.iloc[0])
+        embedding = self.modelo_embedding.encode([text], convert_to_numpy=True)
+        return embedding
+    
+    # Embedding para un puesto
+    def get_embedding_offer(self, offer):
+        offer = offer.copy()
+        text = self.crear_perfil_textual_puesto(offer.iloc[0])
         embedding = self.modelo_embedding.encode([text], convert_to_numpy=True)
         return embedding
