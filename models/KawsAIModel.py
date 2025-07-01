@@ -11,11 +11,13 @@ class KawsAIModel:
     def __init__(self):
         self.knn_offer = NearestNeighbors(n_neighbors=3, metric='cosine')
         self.knn_student = NearestNeighbors(n_neighbors=3, metric='cosine')
-    def get_best_offers(self, embedding_offers, embedding_student):
-        self.knn_student.fit(embedding_offers)
-        distances, indexes = self.knn_student.kneighbors(embedding_student)
+    def get_best_job_offers(self, job_offer_embeddings, student_embedding):
+        # student_embedding debe ser generado usando los campos: name, email, career, description, weekly_availability, preferred_modality, experience_id, date_of_birth, skills, interests
+        self.knn_student.fit(job_offer_embeddings)
+        distances, indexes = self.knn_student.kneighbors(student_embedding)
         return 1 - distances[0], indexes[0]
-    def get_best_students(self, embeddings_students, embedding_offer):
-        self.knn_offer.fit(embeddings_students)
-        distances, indexes = self.knn_offer.kneighbors(embedding_offer)
+    def get_best_students(self, student_embeddings, job_offer_embedding):
+        # job_offer_embedding debe ser generado usando los campos de la clase correspondiente a la oferta en inglés
+        self.knn_offer.fit(student_embeddings)
+        distances, indexes = self.knn_offer.kneighbors(job_offer_embedding)
         return 1 - distances[0], indexes[0]

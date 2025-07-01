@@ -27,19 +27,19 @@ class Preprocesador:
 
     def crear_perfil_textual_estudiante(self, estudiante):
         return self.crear_perfil_textual(
-            ("carrera: " + str(estudiante['carrera']) + " ") * 1 +
-            ("habilidades: " + str(estudiante['habilidades_destacadas']) + " ") * 3 +
-            ("intereses: " + str(estudiante['areas_interes']) + " ") * 3 +
-            ("descripcion: " + str(estudiante['descripcion_personal']) + " ") * 3 +
-            ("experiencia: " + str(estudiante['experiencia_relevante']) + " ") * 5
+            ("career: " + str(estudiante['career']) + " ") * 1 +
+            ("skills: " + str(estudiante['skills']) + " ") * 3 +
+            ("interests: " + str(estudiante['interests']) + " ") * 3 +
+            ("description: " + str(estudiante['description']) + " ") * 3 +
+            ("experience: " + str(estudiante['experience_id']) + " ") * 5
         )
 
     def crear_perfil_textual_puesto(self, puesto):
         return self.crear_perfil_textual(
-            ("puesto: " + str(puesto['titulo_puesto']) + " ") * 1 +
-            ("descripcion: " + str(puesto['descripcion_puesto']) + " ") * 3 +
-            ("area: " + str(puesto['area_del_puesto']) + " ") * 8 +
-            ("requisitos: " + str(puesto['requisitos'])) * 10
+            ("title: " + str(puesto['title']) + " ") * 1 +
+            ("description: " + str(puesto['description']) + " ") * 3 +
+            ("area: " + str(puesto['area_id']) + " ") * 8 +
+            ("required_skills: " + str(puesto['required_skills'])) * 10
         )
 
     # Embeddings para todos los puestos
